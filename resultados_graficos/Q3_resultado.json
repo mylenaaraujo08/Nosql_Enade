@@ -1,0 +1,506 @@
+[
+  {
+    "curso": "Administração",
+    "categoria": "Privada com fins lucrativos",
+    "qtd": 88483,
+    "media_nota": 37.6
+  },
+  {
+    "curso": "Administração Pública",
+    "categoria": "Privada com fins lucrativos",
+    "qtd": 362,
+    "media_nota": 33.61
+  },
+  {
+    "curso": "Agronomia",
+    "categoria": "Privada sem fins lucrativos",
+    "qtd": 6723,
+    "media_nota": 36.3
+  },
+  {
+    "curso": "Arquitetura E Urbanismo",
+    "categoria": "Privada com fins lucrativos",
+    "qtd": 14108,
+    "media_nota": 34.92
+  },
+  {
+    "curso": "Artes Visuais (Licenciatura)",
+    "categoria": "Pública Estadual",
+    "qtd": 1251,
+    "media_nota": 37.48
+  },
+  {
+    "curso": "Biomedicina",
+    "categoria": "Especial",
+    "qtd": 4925,
+    "media_nota": 43.16
+  },
+  {
+    "curso": "Ciência Da Computação (Bacharelado)",
+    "categoria": "Privada com fins lucrativos",
+    "qtd": 6192,
+    "media_nota": 26.66
+  },
+  {
+    "curso": "Ciência Da Computação (Licenciatura)",
+    "categoria": "Privada com fins lucrativos",
+    "qtd": 466,
+    "media_nota": 38.21
+  },
+  {
+    "curso": "Ciências Biológicas (Bacharelado)",
+    "categoria": "Privada com fins lucrativos",
+    "qtd": 4250,
+    "media_nota": 43.47
+  },
+  {
+    "curso": "Ciências Biológicas (Licenciatura)",
+    "categoria": "Pública Municipal",
+    "qtd": 8401,
+    "media_nota": 32.45
+  },
+  {
+    "curso": "Ciências Contábeis",
+    "categoria": "Pública Municipal",
+    "qtd": 43419,
+    "media_nota": 36.54
+  },
+  {
+    "curso": "Ciências Econômicas",
+    "categoria": "Privada com fins lucrativos",
+    "qtd": 7886,
+    "media_nota": 27.1
+  },
+  {
+    "curso": "Ciências Sociais (Bacharelado)",
+    "categoria": "Privada sem fins lucrativos",
+    "qtd": 1767,
+    "media_nota": 40.66
+  },
+  {
+    "curso": "Ciências Sociais (Licenciatura)",
+    "categoria": "Pública Federal",
+    "qtd": 1254,
+    "media_nota": 29.95
+  },
+  {
+    "curso": "Design",
+    "categoria": "Pública Municipal",
+    "qtd": 6776,
+    "media_nota": 37.68
+  },
+  {
+    "curso": "Direito",
+    "categoria": "Privada com fins lucrativos",
+    "qtd": 134272,
+    "media_nota": 34.75
+  },
+  {
+    "curso": "Educação Física (Bacharelado)",
+    "categoria": "Privada com fins lucrativos",
+    "qtd": 20210,
+    "media_nota": 45.26
+  },
+  {
+    "curso": "Educação Física (Licenciatura)",
+    "categoria": "Privada com fins lucrativos",
+    "qtd": 8691,
+    "media_nota": 30.84
+  },
+  {
+    "curso": "Enfermagem",
+    "categoria": null,
+    "qtd": 22198,
+    "media_nota": 40.33
+  },
+  {
+    "curso": "Engenharia Ambiental",
+    "categoria": "Privada sem fins lucrativos",
+    "qtd": 3899,
+    "media_nota": 45.04
+  },
+  {
+    "curso": "Engenharia Civil",
+    "categoria": null,
+    "qtd": 18640,
+    "media_nota": 37.96
+  },
+  {
+    "curso": "Engenharia Da Computação",
+    "categoria": "Pública Estadual",
+    "qtd": 2114,
+    "media_nota": 39.41
+  },
+  {
+    "curso": "Engenharia De Alimentos",
+    "categoria": "Privada com fins lucrativos",
+    "qtd": 858,
+    "media_nota": 37.19
+  },
+  {
+    "curso": "Engenharia De Controle E Automação",
+    "categoria": "Privada com fins lucrativos",
+    "qtd": 2490,
+    "media_nota": 43.24
+  },
+  {
+    "curso": "Engenharia De Produção",
+    "categoria": null,
+    "qtd": 11796,
+    "media_nota": 43.26
+  },
+  {
+    "curso": "Engenharia Elétrica",
+    "categoria": null,
+    "qtd": 7819,
+    "media_nota": 38.01
+  },
+  {
+    "curso": "Engenharia Florestal",
+    "categoria": "Pública Municipal",
+    "qtd": 989,
+    "media_nota": 36.32
+  },
+  {
+    "curso": "Engenharia Mecânica",
+    "categoria": "Privada sem fins lucrativos",
+    "qtd": 8552,
+    "media_nota": 38.28
+  },
+  {
+    "curso": "Engenharia Química",
+    "categoria": "Privada sem fins lucrativos",
+    "qtd": 3287,
+    "media_nota": 35.43
+  },
+  {
+    "curso": "Farmácia",
+    "categoria": "Privada sem fins lucrativos",
+    "qtd": 9098,
+    "media_nota": 39.74
+  },
+  {
+    "curso": "Filosofia (Bacharelado)",
+    "categoria": "Privada com fins lucrativos",
+    "qtd": 1107,
+    "media_nota": 45.81
+  },
+  {
+    "curso": "Filosofia (Licenciatura)",
+    "categoria": "Pública Municipal",
+    "qtd": 1757,
+    "media_nota": 30.17
+  },
+  {
+    "curso": "Fisioterapia",
+    "categoria": null,
+    "qtd": 13026,
+    "media_nota": 38.16
+  },
+  {
+    "curso": "Fonoaudiologia",
+    "categoria": "Privada com fins lucrativos",
+    "qtd": 1452,
+    "media_nota": 36.03
+  },
+  {
+    "curso": "Física (Licenciatura)",
+    "categoria": "Pública Municipal",
+    "qtd": 1844,
+    "media_nota": 34.4
+  },
+  {
+    "curso": "Geografia (Bacharelado)",
+    "categoria": "Privada com fins lucrativos",
+    "qtd": 1626,
+    "media_nota": 47.7
+  },
+  {
+    "curso": "Geografia (Licenciatura)",
+    "categoria": "Pública Municipal",
+    "qtd": 4576,
+    "media_nota": 29.38
+  },
+  {
+    "curso": "História (Bacharelado)",
+    "categoria": "Privada sem fins lucrativos",
+    "qtd": 1300,
+    "media_nota": 45.89
+  },
+  {
+    "curso": "História (Licenciatura)",
+    "categoria": "Pública Municipal",
+    "qtd": 7542,
+    "media_nota": 29.53
+  },
+  {
+    "curso": "Jornalismo",
+    "categoria": "Privada sem fins lucrativos",
+    "qtd": 9588,
+    "media_nota": 37.51
+  },
+  {
+    "curso": "Letras-Inglês (Licenciatura)",
+    "categoria": "Privada sem fins lucrativos",
+    "qtd": 1608,
+    "media_nota": 31.27
+  },
+  {
+    "curso": "Letras-Português (Licenciatura)",
+    "categoria": "Pública Municipal",
+    "qtd": 6063,
+    "media_nota": 32.59
+  },
+  {
+    "curso": "Letras-Português E Espanhol (Licenciatura)",
+    "categoria": "Privada com fins lucrativos",
+    "qtd": 697,
+    "media_nota": 40.12
+  },
+  {
+    "curso": "Letras-Português E Inglês (Licenciatura)",
+    "categoria": "Pública Estadual",
+    "qtd": 3482,
+    "media_nota": 31.99
+  },
+  {
+    "curso": "Matemática (Licenciatura)",
+    "categoria": "Pública Federal",
+    "qtd": 6257,
+    "media_nota": 34.09
+  },
+  {
+    "curso": "Medicina",
+    "categoria": "Especial",
+    "qtd": 10561,
+    "media_nota": 33.06
+  },
+  {
+    "curso": "Medicina Veterinária",
+    "categoria": "Privada com fins lucrativos",
+    "qtd": 7027,
+    "media_nota": 34.46
+  },
+  {
+    "curso": "Música (Licenciatura)",
+    "categoria": "Privada com fins lucrativos",
+    "qtd": 1289,
+    "media_nota": 32.96
+  },
+  {
+    "curso": "Nutrição",
+    "categoria": "Privada sem fins lucrativos",
+    "qtd": 11055,
+    "media_nota": 40.26
+  },
+  {
+    "curso": "Odontologia",
+    "categoria": "Especial",
+    "qtd": 9576,
+    "media_nota": 33.79
+  },
+  {
+    "curso": "Pedagogia (Licenciatura)",
+    "categoria": "Privada com fins lucrativos",
+    "qtd": 105180,
+    "media_nota": 35.49
+  },
+  {
+    "curso": "Psicologia",
+    "categoria": "Especial",
+    "qtd": 28495,
+    "media_nota": 36.95
+  },
+  {
+    "curso": "Publicidade E Propaganda",
+    "categoria": "Privada sem fins lucrativos",
+    "qtd": 15068,
+    "media_nota": 37.22
+  },
+  {
+    "curso": "Química (Bacharelado)",
+    "categoria": "Privada com fins lucrativos",
+    "qtd": 1279,
+    "media_nota": 40.83
+  },
+  {
+    "curso": "Química (Licenciatura)",
+    "categoria": "Pública Municipal",
+    "qtd": 3178,
+    "media_nota": 36.06
+  },
+  {
+    "curso": "Relações Internacionais",
+    "categoria": "Privada sem fins lucrativos",
+    "qtd": 2757,
+    "media_nota": 37.69
+  },
+  {
+    "curso": "Secretariado Executivo",
+    "categoria": "Privada sem fins lucrativos",
+    "qtd": 1002,
+    "media_nota": 34.53
+  },
+  {
+    "curso": "Serviço Social",
+    "categoria": "Privada sem fins lucrativos",
+    "qtd": 12518,
+    "media_nota": 41.75
+  },
+  {
+    "curso": "Sistemas De Informação",
+    "categoria": "Pública Estadual",
+    "qtd": 5417,
+    "media_nota": 32.73
+  },
+  {
+    "curso": "Tecnologia Em Agronegócios",
+    "categoria": "Pública Federal",
+    "qtd": 680,
+    "media_nota": 47.39
+  },
+  {
+    "curso": "Tecnologia Em Análise E Desenvolvimento De Sistemas",
+    "categoria": "Privada sem fins lucrativos",
+    "qtd": 5153,
+    "media_nota": 39.88
+  },
+  {
+    "curso": "Tecnologia Em Comércio Exterior",
+    "categoria": "Pública Municipal",
+    "qtd": 1050,
+    "media_nota": 44.44
+  },
+  {
+    "curso": "Tecnologia Em Design De Interiores",
+    "categoria": "Privada sem fins lucrativos",
+    "qtd": 774,
+    "media_nota": 45.59
+  },
+  {
+    "curso": "Tecnologia Em Design De Moda",
+    "categoria": "Privada sem fins lucrativos",
+    "qtd": 430,
+    "media_nota": 48.31
+  },
+  {
+    "curso": "Tecnologia Em Design Gráfico",
+    "categoria": "Pública Municipal",
+    "qtd": 938,
+    "media_nota": 45.51
+  },
+  {
+    "curso": "Tecnologia Em Estética E Cosmética",
+    "categoria": null,
+    "qtd": 1430,
+    "media_nota": 47.49
+  },
+  {
+    "curso": "Tecnologia Em Gastronomia",
+    "categoria": "Privada sem fins lucrativos",
+    "qtd": 1994,
+    "media_nota": 47.11
+  },
+  {
+    "curso": "Tecnologia Em Gestão Ambiental",
+    "categoria": "Privada sem fins lucrativos",
+    "qtd": 889,
+    "media_nota": 46.19
+  },
+  {
+    "curso": "Tecnologia Em Gestão Comercial",
+    "categoria": "Privada sem fins lucrativos",
+    "qtd": 1563,
+    "media_nota": 48.33
+  },
+  {
+    "curso": "Tecnologia Em Gestão Da Qualidade",
+    "categoria": "Pública Estadual",
+    "qtd": 241,
+    "media_nota": 47.28
+  },
+  {
+    "curso": "Tecnologia Em Gestão Da Tecnologia Da Informação",
+    "categoria": "Pública Estadual",
+    "qtd": 700,
+    "media_nota": 37.38
+  },
+  {
+    "curso": "Tecnologia Em Gestão De Recursos Humanos",
+    "categoria": "Pública Estadual",
+    "qtd": 6998,
+    "media_nota": 47.74
+  },
+  {
+    "curso": "Tecnologia Em Gestão Financeira",
+    "categoria": "Pública Municipal",
+    "qtd": 2196,
+    "media_nota": 48.16
+  },
+  {
+    "curso": "Tecnologia Em Gestão Hospitalar",
+    "categoria": "Privada sem fins lucrativos",
+    "qtd": 175,
+    "media_nota": 50.8
+  },
+  {
+    "curso": "Tecnologia Em Gestão Pública",
+    "categoria": "Pública Federal",
+    "qtd": 1309,
+    "media_nota": 47.72
+  },
+  {
+    "curso": "Tecnologia Em Logística",
+    "categoria": "Pública Municipal",
+    "qtd": 3398,
+    "media_nota": 48.8
+  },
+  {
+    "curso": "Tecnologia Em Marketing",
+    "categoria": "Especial",
+    "qtd": 2748,
+    "media_nota": 47.62
+  },
+  {
+    "curso": "Tecnologia Em Processos Gerenciais",
+    "categoria": "Privada sem fins lucrativos",
+    "qtd": 4069,
+    "media_nota": 48.47
+  },
+  {
+    "curso": "Tecnologia Em Radiologia",
+    "categoria": "Privada com fins lucrativos",
+    "qtd": 1241,
+    "media_nota": 46.11
+  },
+  {
+    "curso": "Tecnologia Em Redes De Computadores",
+    "categoria": "Privada com fins lucrativos",
+    "qtd": 816,
+    "media_nota": 37.44
+  },
+  {
+    "curso": "Tecnologia Em Segurança No Trabalho",
+    "categoria": "Pública Estadual",
+    "qtd": 191,
+    "media_nota": 49.99
+  },
+  {
+    "curso": "Teologia",
+    "categoria": "Privada com fins lucrativos",
+    "qtd": 2225,
+    "media_nota": 43.46
+  },
+  {
+    "curso": "Turismo",
+    "categoria": "Pública Federal",
+    "qtd": 2838,
+    "media_nota": 36.56
+  },
+  {
+    "curso": "Zootecnia",
+    "categoria": "Privada com fins lucrativos",
+    "qtd": 1517,
+    "media_nota": 38.76
+  }
+]

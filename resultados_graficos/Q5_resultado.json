@@ -1,0 +1,37 @@
+[
+  {
+    "jornada": "Não estou trabalhando",
+    "qtd": 365945,
+    "media_nota": 28.67,
+    "min_nota": 0.0,
+    "max_nota": 44.7
+  },
+  {
+    "jornada": "Trabalho 40 horas semanais ou mais",
+    "qtd": 144346,
+    "media_nota": 50.08,
+    "min_nota": 44.9,
+    "max_nota": 55.9
+  },
+  {
+    "jornada": "Trabalho até 20 horas semanais",
+    "qtd": 67896,
+    "media_nota": 40.28,
+    "min_nota": 34.7,
+    "max_nota": 50.6
+  },
+  {
+    "jornada": "Trabalho de 21 a 39 horas semanais",
+    "qtd": 116440,
+    "media_nota": 44.53,
+    "min_nota": 38.7,
+    "max_nota": 55.5
+  },
+  {
+    "jornada": "Trabalho eventualmente",
+    "qtd": 78439,
+    "media_nota": 38.06,
+    "min_nota": 30.6,
+    "max_nota": 48.2
+  }
+]

@@ -1,0 +1,2094 @@
+﻿id_avaliacao,avaliacao_dificuldade_fg,avaliacao_dificuldade_ce,avaliacao_equipamentos,avaliacao_ambiente
+1,Médio,Médio,Discordo totalmente,Discordo totalmente
+2,Resposta anulada,Resposta anulada,Discordo totalmente,Discordo totalmente
+3,Resposta anulada,Resposta anulada,Discordo parcialmente,Discordo parcialmente
+4,Fácil,Médio,Concordo,Concordo
+5,Difícil,Muito difícil,Discordo totalmente,Discordo totalmente
+6,Resposta anulada,Resposta anulada,Concordo parcialmente,Discordo parcialmente
+7,Fácil,Fácil,Discordo totalmente,Discordo totalmente
+8,Resposta anulada,Resposta anulada,Concordo parcialmente,Concordo parcialmente
+9,Resposta anulada,Resposta anulada,Discordo,Discordo
+10,Resposta anulada,Resposta anulada,Discordo parcialmente,Discordo
+11,Resposta anulada,Muito difícil,Discordo totalmente,Discordo totalmente
+12,Resposta anulada,Resposta anulada,Concordo totalmente,Concordo totalmente
+13,Resposta anulada,Resposta anulada,Não se aplica,Não se aplica
+14,Resposta anulada,Resposta anulada,Concordo,Concordo
+15,Resposta anulada,Resposta anulada,Não sei responder,Não se aplica
+16,Muito difícil,Muito difícil,Discordo totalmente,Discordo totalmente
+17,Muito fácil,Muito fácil,Discordo totalmente,Discordo totalmente
+18,Muito fácil,Médio,Discordo totalmente,Discordo totalmente
+19,Resposta anulada,Resposta anulada,Concordo parcialmente,Discordo
+20,Resposta anulada,Resposta anulada,Discordo totalmente,Discordo parcialmente
+21,Muito fácil,Muito difícil,Discordo totalmente,Discordo totalmente
+22,Muito fácil,Resposta anulada,Discordo totalmente,Discordo totalmente
+23,Difícil,Difícil,Discordo totalmente,Discordo totalmente
+24,Resposta anulada,Resposta anulada,Concordo parcialmente,Concordo totalmente
+25,Resposta anulada,Resposta anulada,Discordo totalmente,Concordo parcialmente
+26,Difícil,Médio,Discordo totalmente,Discordo totalmente
+27,Resposta anulada,Resposta anulada,Discordo,Discordo totalmente
+28,Resposta anulada,Resposta anulada,Concordo parcialmente,Concordo
+29,Muito difícil,Difícil,Discordo totalmente,Discordo totalmente
+30,Médio,Difícil,Discordo totalmente,Discordo totalmente
+31,Resposta anulada,Resposta anulada,Não se aplica,Discordo totalmente
+32,Resposta anulada,Resposta anulada,Concordo totalmente,Discordo parcialmente
+33,Fácil,Médio,Discordo totalmente,Discordo totalmente
+34,Resposta anulada,Resposta anulada,Discordo totalmente,Discordo
+35,Resposta anulada,Resposta anulada,Discordo,Discordo parcialmente
+36,Resposta anulada,Resposta anulada,Concordo,Discordo totalmente
+37,Resposta anulada,Resposta anulada,Concordo,Concordo totalmente
+38,Resposta anulada,Resposta anulada,Concordo parcialmente,Não sei responder
+39,Muito difícil,Médio,Concordo,Concordo
+40,Muito difícil,Muito difícil,Não se aplica,Não se aplica
+41,Resposta anulada,Resposta anulada,Não sei responder,Não sei responder
+42,Muito difícil,Muito difícil,Discordo,Discordo
+43,Médio,Resposta anulada,Discordo totalmente,Discordo totalmente
+44,Fácil,Difícil,Discordo totalmente,Discordo totalmente
+45,Muito difícil,Muito difícil,Concordo totalmente,Concordo totalmente
+46,Difícil,Difícil,Concordo totalmente,Concordo totalmente
+47,Muito fácil,Fácil,Discordo,Discordo
+48,Médio,Médio,Concordo parcialmente,Discordo parcialmente
+49,Difícil,Médio,Discordo,Discordo
+50,Médio,Médio,Concordo parcialmente,Concordo parcialmente
+51,Muito fácil,Muito fácil,Concordo parcialmente,Concordo parcialmente
+52,Muito fácil,Fácil,Discordo totalmente,Discordo totalmente
+53,Médio,Muito fácil,Discordo totalmente,Discordo totalmente
+54,Muito difícil,Muito difícil,Discordo totalmente,Discordo
+55,Difícil,Fácil,Discordo totalmente,Discordo totalmente
+56,Fácil,Muito fácil,Discordo totalmente,Discordo totalmente
+57,Médio,Médio,Concordo,Concordo
+58,Médio,Muito difícil,Discordo totalmente,Discordo totalmente
+59,Muito difícil,Muito difícil,Concordo totalmente,Discordo totalmente
+60,Muito difícil,Muito difícil,Concordo totalmente,Concordo parcialmente
+61,Difícil,Difícil,Concordo parcialmente,Concordo parcialmente
+62,Difícil,Resposta anulada,Discordo totalmente,Discordo totalmente
+63,Muito difícil,Resposta anulada,Discordo parcialmente,Discordo parcialmente
+64,Fácil,Médio,Não se aplica,Não se aplica
+65,Difícil,Difícil,Discordo totalmente,Discordo parcialmente
+66,Difícil,Médio,Concordo totalmente,Concordo totalmente
+67,Difícil,Muito fácil,Discordo totalmente,Discordo totalmente
+68,Médio,Médio,Discordo,Discordo
+69,Resposta anulada,Resposta anulada,Concordo,Concordo parcialmente
+70,Médio,Fácil,Discordo parcialmente,Discordo
+71,Muito difícil,Médio,Discordo totalmente,Discordo totalmente
+72,Difícil,Médio,Discordo parcialmente,Não se aplica
+73,Muito fácil,Difícil,Discordo totalmente,Discordo totalmente
+74,Médio,Fácil,Discordo totalmente,Discordo totalmente
+75,Muito difícil,Difícil,Não se aplica,Discordo totalmente
+76,Fácil,Fácil,Concordo totalmente,Não se aplica
+77,Médio,Fácil,Discordo,Discordo
+78,Médio,Médio,Não se aplica,Não se aplica
+79,Médio,Médio,Concordo totalmente,Concordo totalmente
+80,Médio,Difícil,Discordo parcialmente,Discordo parcialmente
+81,Resposta anulada,Fácil,Discordo totalmente,Discordo totalmente
+82,Muito difícil,Muito difícil,Discordo,Discordo parcialmente
+83,Difícil,Difícil,Concordo,Concordo
+84,Resposta anulada,Resposta anulada,Discordo,Não se aplica
+85,Difícil,Difícil,Discordo parcialmente,Discordo parcialmente
+86,Muito difícil,Muito difícil,Concordo parcialmente,Concordo
+87,Fácil,Muito fácil,Concordo,Discordo parcialmente
+88,Difícil,Médio,Concordo parcialmente,Discordo parcialmente
+89,Difícil,Médio,Concordo totalmente,Concordo
+90,Médio,Médio,Não sei responder,Não sei responder
+91,Fácil,Fácil,Não se aplica,Não se aplica
+92,Médio,Difícil,Concordo totalmente,Discordo
+93,Muito fácil,Muito fácil,Concordo parcialmente,Discordo parcialmente
+94,Fácil,Resposta anulada,Discordo totalmente,Discordo totalmente
+95,Muito fácil,Muito fácil,Concordo parcialmente,Discordo totalmente
+96,Resposta anulada,Resposta anulada,Discordo parcialmente,Discordo totalmente
+97,Médio,Muito fácil,Não se aplica,Não se aplica
+98,Médio,Médio,Discordo parcialmente,Discordo parcialmente
+99,Resposta anulada,Resposta anulada,Discordo parcialmente,Concordo parcialmente
+100,Muito difícil,Resposta anulada,Discordo totalmente,Discordo totalmente
+101,Médio,Difícil,Não se aplica,Não se aplica
+102,Muito difícil,Muito difícil,Concordo,Concordo
+103,Muito difícil,Difícil,Concordo,Concordo
+104,Médio,Médio,Concordo,Concordo parcialmente
+105,Médio,Médio,Concordo totalmente,Discordo totalmente
+106,Muito difícil,Muito difícil,Concordo parcialmente,Não sei responder
+107,Difícil,Muito difícil,Discordo parcialmente,Discordo parcialmente
+108,Difícil,Muito fácil,Concordo totalmente,Concordo totalmente
+109,Médio,Médio,Não se aplica,Concordo
+110,Resposta anulada,Resposta anulada,Concordo parcialmente,Discordo totalmente
+111,Resposta anulada,Resposta anulada,Discordo parcialmente,Concordo totalmente
+112,Muito difícil,Médio,Discordo parcialmente,Discordo parcialmente
+113,Médio,Médio,Discordo,Discordo totalmente
+114,Difícil,Muito difícil,Discordo,Discordo
+115,Médio,Médio,Não sei responder,Concordo totalmente
+116,Difícil,Difícil,Discordo,Discordo
+117,Médio,Difícil,Concordo parcialmente,Concordo
+118,Médio,Médio,Concordo,Discordo
+119,Muito difícil,Muito fácil,Discordo totalmente,Discordo totalmente
+120,Muito fácil,Muito fácil,Concordo,Concordo
+121,Médio,Fácil,Discordo,Concordo parcialmente
+122,Difícil,Médio,Não se aplica,Não se aplica
+123,Difícil,Médio,Discordo parcialmente,Discordo parcialmente
+124,Médio,Difícil,Discordo parcialmente,Discordo
+125,Difícil,Médio,Concordo parcialmente,Concordo
+126,Médio,Difícil,Discordo totalmente,Concordo parcialmente
+127,Fácil,Médio,Não sei responder,Não sei responder
+128,Muito difícil,Muito difícil,Discordo totalmente,Discordo parcialmente
+129,Médio,Médio,Concordo parcialmente,Concordo
+130,Difícil,Difícil,Discordo totalmente,Não sei responder
+131,Resposta anulada,Muito fácil,Discordo totalmente,Discordo totalmente
+132,Difícil,Difícil,Discordo totalmente,Discordo
+133,Difícil,Difícil,Discordo parcialmente,Discordo
+134,Muito fácil,Médio,Concordo totalmente,Concordo totalmente
+135,Muito difícil,Fácil,Discordo totalmente,Discordo totalmente
+136,Médio,Fácil,Não se aplica,Não se aplica
+137,Difícil,Difícil,Discordo,Discordo totalmente
+138,Médio,Difícil,Discordo,Discordo
+139,Médio,Difícil,Discordo,Concordo parcialmente
+140,Difícil,Difícil,Concordo,Discordo parcialmente
+141,Difícil,Médio,Discordo totalmente,Concordo parcialmente
+142,Difícil,Difícil,Discordo totalmente,Concordo totalmente
+143,Fácil,Difícil,Concordo parcialmente,Discordo parcialmente
+144,Fácil,Médio,Discordo,Discordo totalmente
+145,Médio,Fácil,Concordo,Concordo
+146,Resposta anulada,Médio,Discordo totalmente,Discordo totalmente
+147,Fácil,Difícil,Discordo totalmente,Não sei responder
+148,Fácil,Médio,Concordo totalmente,Concordo
+149,Médio,Difícil,Concordo totalmente,Concordo totalmente
+150,Muito fácil,Muito fácil,Concordo totalmente,Concordo totalmente
+151,Resposta anulada,Resposta anulada,Discordo,Concordo
+152,Muito difícil,Difícil,Discordo,Discordo
+153,Médio,Médio,Discordo parcialmente,Discordo totalmente
+154,Muito difícil,Médio,Concordo parcialmente,Discordo totalmente
+155,Médio,Difícil,Concordo,Concordo
+156,Difícil,Difícil,Não se aplica,Não se aplica
+157,Muito fácil,Médio,Concordo,Concordo
+158,Difícil,Muito fácil,Discordo,Discordo
+159,Fácil,Muito difícil,Discordo totalmente,Discordo totalmente
+160,Muito difícil,Difícil,Concordo totalmente,Concordo totalmente
+161,Muito difícil,Difícil,Não se aplica,Não se aplica
+162,Médio,Fácil,Discordo parcialmente,Concordo parcialmente
+163,Médio,Médio,Discordo,Concordo totalmente
+164,Muito fácil,Fácil,Não se aplica,Não se aplica
+165,Resposta anulada,Resposta anulada,Concordo parcialmente,Não se aplica
+166,Muito difícil,Muito difícil,Concordo parcialmente,Discordo
+167,Médio,Médio,Discordo,Não sei responder
+168,Médio,Médio,Discordo totalmente,Concordo parcialmente
+169,Fácil,Médio,Discordo parcialmente,Discordo parcialmente
+170,Fácil,Médio,Concordo totalmente,Concordo totalmente
+171,Difícil,Difícil,Não sei responder,Não sei responder
+172,Fácil,Muito difícil,Concordo,Concordo
+173,Difícil,Difícil,Concordo parcialmente,Discordo parcialmente
+174,Difícil,Médio,Discordo parcialmente,Discordo
+175,Fácil,Resposta anulada,Concordo parcialmente,Discordo parcialmente
+176,Muito difícil,Difícil,Discordo parcialmente,Discordo parcialmente
+177,Difícil,Difícil,Discordo parcialmente,Concordo parcialmente
+178,Muito difícil,Fácil,Concordo totalmente,Concordo totalmente
+179,Médio,Médio,Discordo,Discordo parcialmente
+180,Difícil,Difícil,Discordo,Discordo parcialmente
+181,Muito difícil,Difícil,Concordo parcialmente,Concordo parcialmente
+182,Fácil,Fácil,Discordo parcialmente,Discordo parcialmente
+183,Difícil,Muito difícil,Concordo totalmente,Concordo totalmente
+184,Muito difícil,Muito fácil,Discordo parcialmente,Discordo parcialmente
+185,Médio,Resposta anulada,Não sei responder,Não se aplica
+186,Médio,Difícil,Discordo,Discordo totalmente
+187,Muito difícil,Muito difícil,Discordo parcialmente,Discordo parcialmente
+188,Muito difícil,Difícil,Discordo totalmente,Discordo
+189,Médio,Médio,Concordo parcialmente,Não se aplica
+190,Difícil,Difícil,Discordo parcialmente,Discordo totalmente
+191,Médio,Médio,Concordo,Discordo parcialmente
+192,Difícil,Médio,Discordo parcialmente,Concordo totalmente
+193,Difícil,Difícil,Concordo totalmente,Discordo totalmente
+194,Médio,Médio,Concordo totalmente,Concordo
+195,Fácil,Médio,Discordo,Discordo
+196,Fácil,Médio,Concordo totalmente,Concordo parcialmente
+197,Muito difícil,Muito difícil,Concordo,Concordo parcialmente
+198,Difícil,Médio,Discordo totalmente,Discordo
+199,Médio,Médio,Discordo totalmente,Discordo parcialmente
+200,Muito difícil,Médio,Concordo parcialmente,Concordo parcialmente
+201,Médio,Difícil,Discordo totalmente,Discordo
+202,Difícil,Difícil,Discordo parcialmente,Concordo
+203,Difícil,Médio,Discordo,Discordo parcialmente
+204,Difícil,Muito difícil,Concordo,Discordo parcialmente
+205,Médio,Médio,Não sei responder,Não se aplica
+206,Resposta anulada,Difícil,Discordo totalmente,Discordo totalmente
+207,Médio,Fácil,Discordo totalmente,Não se aplica
+208,Difícil,Difícil,Discordo parcialmente,Não se aplica
+209,Resposta anulada,Resposta anulada,Concordo,Discordo
+210,Médio,Médio,Discordo parcialmente,Discordo
+211,Muito difícil,Muito difícil,Não sei responder,Discordo parcialmente
+212,Médio,Muito difícil,Discordo parcialmente,Discordo parcialmente
+213,Difícil,Difícil,Concordo parcialmente,Discordo
+214,Difícil,Difícil,Discordo totalmente,Não se aplica
+215,Médio,Muito difícil,Não se aplica,Concordo totalmente
+216,Difícil,Difícil,Não se aplica,Concordo totalmente
+217,Médio,Difícil,Não sei responder,Não sei responder
+218,Médio,Médio,Discordo parcialmente,Não se aplica
+219,Fácil,Muito fácil,Concordo parcialmente,Concordo
+220,Médio,Médio,Não sei responder,Discordo
+221,Médio,Difícil,Discordo totalmente,Discordo parcialmente
+222,Difícil,Difícil,Não se aplica,Discordo totalmente
+223,Fácil,Difícil,Discordo,Discordo totalmente
+224,Médio,Difícil,Concordo,Concordo totalmente
+225,Médio,Fácil,Concordo totalmente,Concordo totalmente
+226,Fácil,Muito fácil,Discordo,Discordo
+227,Difícil,Muito difícil,Não se aplica,Não se aplica
+228,Muito fácil,Muito fácil,Discordo totalmente,Discordo parcialmente
+229,Fácil,Fácil,Concordo,Concordo
+230,Muito fácil,Muito fácil,Concordo totalmente,Discordo totalmente
+231,Difícil,Médio,Concordo parcialmente,Concordo parcialmente
+232,Difícil,Médio,Concordo,Discordo totalmente
+233,Resposta anulada,Resposta anulada,Não se aplica,Não sei responder
+234,Difícil,Difícil,Concordo,Concordo parcialmente
+235,Médio,Muito difícil,Não se aplica,Não se aplica
+236,Difícil,Difícil,Concordo totalmente,Concordo
+237,Difícil,Médio,Discordo totalmente,Discordo parcialmente
+238,Médio,Médio,Não se aplica,Discordo totalmente
+239,Médio,Muito difícil,Discordo parcialmente,Discordo
+240,Resposta anulada,Resposta anulada,Não sei responder,Discordo parcialmente
+241,Difícil,Difícil,Concordo totalmente,Concordo parcialmente
+242,Médio,Difícil,Discordo,Concordo
+243,Muito difícil,Muito difícil,Concordo parcialmente,Discordo parcialmente
+244,Difícil,Médio,Concordo,Concordo
+245,Médio,Médio,Discordo totalmente,Não sei responder
+246,Médio,Difícil,Concordo parcialmente,Discordo parcialmente
+247,Fácil,Difícil,Não se aplica,Não se aplica
+248,Difícil,Médio,Discordo parcialmente,Discordo totalmente
+249,Muito difícil,Difícil,Discordo parcialmente,Discordo totalmente
+250,Difícil,Difícil,Concordo parcialmente,Concordo totalmente
+251,Resposta anulada,Resposta anulada,Não sei responder,Concordo totalmente
+252,Fácil,Fácil,Concordo totalmente,Concordo totalmente
+253,Difícil,Médio,Concordo totalmente,Discordo totalmente
+254,Muito fácil,Muito difícil,Discordo parcialmente,Discordo parcialmente
+255,Muito difícil,Difícil,Concordo,Não se aplica
+256,Médio,Médio,Concordo totalmente,Concordo parcialmente
+257,Difícil,Difícil,Concordo,Concordo totalmente
+258,Muito difícil,Médio,Discordo,Discordo
+259,Médio,Muito difícil,Concordo parcialmente,Concordo parcialmente
+260,Difícil,Muito difícil,Discordo parcialmente,Discordo totalmente
+261,Muito difícil,Muito difícil,Não sei responder,Não sei responder
+262,Médio,Fácil,Concordo parcialmente,Concordo parcialmente
+263,Muito fácil,Muito fácil,Discordo,Discordo
+264,Difícil,Difícil,Não se aplica,Concordo parcialmente
+265,Muito fácil,Muito fácil,Não se aplica,Não se aplica
+266,Resposta anulada,Fácil,Discordo parcialmente,Discordo parcialmente
+267,Fácil,Muito difícil,Discordo,Discordo totalmente
+268,Fácil,Fácil,Discordo,Discordo
+269,Fácil,Fácil,Concordo parcialmente,Concordo parcialmente
+270,Difícil,Muito difícil,Concordo parcialmente,Concordo parcialmente
+271,Médio,Muito difícil,Discordo,Discordo
+272,Difícil,Médio,Concordo,Concordo totalmente
+273,Resposta anulada,Resposta anulada,Discordo totalmente,Não sei responder
+274,Médio,Muito fácil,Discordo totalmente,Concordo parcialmente
+275,Muito fácil,Muito difícil,Concordo totalmente,Concordo totalmente
+276,Médio,Difícil,Concordo totalmente,Concordo
+277,Resposta anulada,Difícil,Concordo totalmente,Concordo
+278,Médio,Difícil,Discordo,Discordo parcialmente
+279,Resposta anulada,Resposta anulada,Não se aplica,Concordo totalmente
+280,Muito fácil,Médio,Discordo,Discordo
+281,Médio,Difícil,Discordo parcialmente,Discordo totalmente
+282,Difícil,Muito difícil,Discordo,Discordo totalmente
+283,Difícil,Fácil,Concordo totalmente,Concordo totalmente
+284,Muito difícil,Médio,Concordo totalmente,Concordo totalmente
+285,Médio,Muito difícil,Concordo,Concordo
+286,Difícil,Difícil,Concordo,Não se aplica
+287,Médio,Médio,Não se aplica,Não sei responder
+288,Muito difícil,Muito difícil,Discordo,Concordo
+289,Muito fácil,Muito fácil,Concordo totalmente,Concordo parcialmente
+290,Difícil,Médio,Não sei responder,Não sei responder
+291,Médio,Médio,Concordo parcialmente,Não sei responder
+292,Fácil,Médio,Discordo parcialmente,Discordo
+293,Muito difícil,Difícil,Concordo parcialmente,Não sei responder
+294,Médio,Médio,Discordo,Não se aplica
+295,Muito fácil,Muito fácil,Discordo parcialmente,Concordo
+296,Difícil,Difícil,Concordo parcialmente,Concordo
+297,Médio,Médio,Discordo totalmente,Discordo
+298,Muito fácil,Médio,Não se aplica,Não se aplica
+299,Muito difícil,Médio,Discordo,Discordo parcialmente
+300,Difícil,Difícil,Concordo parcialmente,Discordo totalmente
+301,Resposta anulada,Resposta anulada,Discordo,Concordo parcialmente
+302,Fácil,Médio,Concordo parcialmente,Concordo parcialmente
+303,Médio,Muito difícil,Discordo parcialmente,Discordo totalmente
+304,Médio,Médio,Concordo,Não se aplica
+305,Muito difícil,Muito difícil,Discordo,Discordo totalmente
+306,Difícil,Médio,Concordo totalmente,Discordo parcialmente
+307,Médio,Médio,Discordo parcialmente,Concordo parcialmente
+308,Difícil,Difícil,Não sei responder,Não se aplica
+309,Difícil,Médio,Concordo totalmente,Concordo parcialmente
+310,Médio,Difícil,Discordo parcialmente,Concordo parcialmente
+311,Difícil,Difícil,Concordo parcialmente,Não se aplica
+312,Médio,Difícil,Concordo totalmente,Não se aplica
+313,Médio,Difícil,Discordo,Não sei responder
+314,Difícil,Muito fácil,Discordo parcialmente,Discordo totalmente
+315,Difícil,Fácil,Concordo,Concordo
+316,Fácil,Difícil,Concordo totalmente,Concordo totalmente
+317,Resposta anulada,Resposta anulada,Discordo totalmente,Não se aplica
+318,Médio,Muito difícil,Concordo totalmente,Concordo parcialmente
+319,Difícil,Médio,Discordo,Não se aplica
+320,Difícil,Fácil,Concordo,Concordo totalmente
+321,Médio,Fácil,Não se aplica,Concordo totalmente
+322,Fácil,Médio,Não se aplica,Discordo
+323,Muito difícil,Muito difícil,Concordo,Concordo totalmente
+324,Muito fácil,Médio,Discordo parcialmente,Discordo parcialmente
+325,Médio,Médio,Concordo parcialmente,Discordo totalmente
+326,Fácil,Fácil,Não sei responder,Não sei responder
+327,Muito fácil,Médio,Discordo,Discordo parcialmente
+328,Médio,Médio,Concordo totalmente,Discordo parcialmente
+329,Médio,Médio,Concordo totalmente,Não sei responder
+330,Difícil,Médio,Não se aplica,Concordo totalmente
+331,Difícil,Difícil,Concordo totalmente,Não se aplica
+332,Muito difícil,Difícil,Não se aplica,Concordo
+333,Médio,Fácil,Discordo totalmente,Discordo
+334,Difícil,Muito difícil,Discordo parcialmente,Concordo parcialmente
+335,Difícil,Difícil,Discordo totalmente,Concordo parcialmente
+336,Médio,Fácil,Não sei responder,Concordo parcialmente
+337,Difícil,Fácil,Discordo parcialmente,Discordo parcialmente
+338,Muito fácil,Muito fácil,Discordo parcialmente,Discordo totalmente
+339,Médio,Difícil,Concordo parcialmente,Não se aplica
+340,Resposta anulada,Resposta anulada,Concordo totalmente,Concordo
+341,Médio,Médio,Discordo totalmente,Concordo
+342,Difícil,Difícil,Não sei responder,Concordo
+343,Muito difícil,Difícil,Discordo,Discordo parcialmente
+344,Fácil,Muito fácil,Concordo parcialmente,Discordo totalmente
+345,Difícil,Difícil,Discordo,Concordo
+346,Resposta anulada,Muito difícil,Concordo totalmente,Concordo totalmente
+347,Fácil,Médio,Não sei responder,Concordo
+348,Resposta anulada,Difícil,Concordo totalmente,Concordo totalmente
+349,Médio,Médio,Não sei responder,Concordo parcialmente
+350,Muito difícil,Muito difícil,Concordo totalmente,Concordo
+351,Médio,Médio,Discordo,Concordo parcialmente
+352,Médio,Difícil,Concordo,Discordo
+353,Difícil,Médio,Discordo parcialmente,Concordo parcialmente
+354,Resposta anulada,Resposta anulada,Discordo totalmente,Concordo totalmente
+355,Médio,Difícil,Concordo totalmente,Discordo totalmente
+356,Médio,Difícil,Concordo,Concordo parcialmente
+357,Muito fácil,Fácil,Concordo parcialmente,Concordo parcialmente
+358,Difícil,Médio,Discordo,Discordo totalmente
+359,Médio,Muito difícil,Concordo totalmente,Concordo totalmente
+360,Fácil,Fácil,Concordo,Concordo totalmente
+361,Médio,Difícil,Concordo,Discordo totalmente
+362,Médio,Difícil,Discordo,Concordo totalmente
+363,Difícil,Muito difícil,Concordo parcialmente,Discordo parcialmente
+364,Muito difícil,Médio,Discordo parcialmente,Discordo
+365,Resposta anulada,Resposta anulada,Não se aplica,Discordo
+366,Muito fácil,Médio,Não sei responder,Discordo parcialmente
+367,Difícil,Muito fácil,Concordo,Concordo
+368,Muito difícil,Difícil,Não sei responder,Não sei responder
+369,Médio,Médio,Discordo totalmente,Não se aplica
+370,Médio,Médio,Concordo,Discordo totalmente
+371,Difícil,Médio,Não se aplica,Discordo totalmente
+372,Médio,Difícil,Discordo totalmente,Não se aplica
+373,Muito fácil,Muito fácil,Concordo,Discordo
+374,Muito fácil,Muito difícil,Discordo,Discordo
+375,Resposta anulada,Resposta anulada,Concordo,Discordo parcialmente
+376,Difícil,Médio,Concordo,Discordo parcialmente
+377,Resposta anulada,Resposta anulada,Discordo totalmente,Concordo
+378,Fácil,Muito difícil,Concordo parcialmente,Concordo parcialmente
+379,Médio,Médio,Discordo,Concordo
+380,Muito difícil,Muito difícil,Discordo totalmente,Concordo
+381,Difícil,Médio,Discordo totalmente,Concordo totalmente
+382,Fácil,Difícil,Discordo,Discordo
+383,Resposta anulada,Resposta anulada,Concordo totalmente,Concordo parcialmente
+384,Muito fácil,Difícil,Discordo,Discordo
+385,Médio,Fácil,Discordo totalmente,Discordo parcialmente
+386,Muito fácil,Muito fácil,Discordo,Discordo totalmente
+387,Médio,Médio,Concordo parcialmente,Discordo
+388,Muito difícil,Difícil,Discordo parcialmente,Discordo
+389,Resposta anulada,Resposta anulada,Concordo totalmente,Não se aplica
+390,Muito difícil,Muito difícil,Discordo totalmente,Concordo parcialmente
+391,Muito fácil,Difícil,Não se aplica,Não se aplica
+392,Médio,Médio,Não se aplica,Discordo
+393,Médio,Difícil,Concordo parcialmente,Discordo totalmente
+394,Muito fácil,Muito fácil,Concordo parcialmente,Discordo
+395,Difícil,Difícil,Concordo totalmente,Não sei responder
+396,Difícil,Difícil,Não se aplica,Discordo parcialmente
+397,Muito difícil,Difícil,Discordo,Discordo totalmente
+398,Difícil,Difícil,Não sei responder,Discordo totalmente
+399,Médio,Difícil,Não sei responder,Discordo
+400,Médio,Médio,Concordo parcialmente,Concordo totalmente
+401,Médio,Médio,Discordo parcialmente,Concordo totalmente
+402,Difícil,Médio,Concordo,Concordo parcialmente
+403,Médio,Difícil,Discordo parcialmente,Concordo totalmente
+404,Médio,Difícil,Concordo parcialmente,Concordo totalmente
+405,Muito difícil,Muito fácil,Não sei responder,Não sei responder
+406,Médio,Médio,Não sei responder,Discordo parcialmente
+407,Fácil,Médio,Concordo,Concordo totalmente
+408,Difícil,Muito difícil,Não se aplica,Concordo
+409,Difícil,Muito difícil,Discordo totalmente,Discordo
+410,Muito difícil,Muito difícil,Concordo,Discordo totalmente
+411,Fácil,Difícil,Discordo totalmente,Não se aplica
+412,Médio,Médio,Concordo,Concordo totalmente
+413,Difícil,Médio,Concordo parcialmente,Discordo
+414,Médio,Difícil,Concordo parcialmente,Concordo parcialmente
+415,Muito difícil,Muito difícil,Discordo parcialmente,Concordo parcialmente
+416,Difícil,Difícil,Discordo totalmente,Concordo
+417,Médio,Difícil,Concordo totalmente,Discordo parcialmente
+418,Fácil,Médio,Discordo totalmente,Discordo parcialmente
+419,Médio,Médio,Discordo parcialmente,Não sei responder
+420,Muito fácil,Difícil,Concordo totalmente,Concordo totalmente
+421,Fácil,Médio,Concordo parcialmente,Concordo
+422,Fácil,Médio,Discordo totalmente,Concordo
+423,Muito difícil,Muito difícil,Discordo parcialmente,Concordo totalmente
+424,Muito difícil,Muito difícil,Concordo parcialmente,Concordo parcialmente
+425,Médio,Médio,Discordo parcialmente,Concordo
+426,Médio,Difícil,Não sei responder,Não se aplica
+427,Muito difícil,Difícil,Discordo totalmente,Não sei responder
+428,Muito difícil,Difícil,Discordo totalmente,Discordo parcialmente
+429,Difícil,Muito difícil,Concordo totalmente,Discordo totalmente
+430,Resposta anulada,Difícil,Não se aplica,Não se aplica
+431,Muito fácil,Médio,Discordo parcialmente,Não se aplica
+432,Médio,Difícil,Discordo parcialmente,Não sei responder
+433,Médio,Fácil,Discordo,Discordo parcialmente
+434,Fácil,Difícil,Concordo parcialmente,Concordo parcialmente
+435,Difícil,Médio,Concordo parcialmente,Não se aplica
+436,Fácil,Resposta anulada,Não se aplica,Não se aplica
+437,Difícil,Muito difícil,Concordo totalmente,Concordo parcialmente
+438,Médio,Resposta anulada,Não se aplica,Não se aplica
+439,Fácil,Muito difícil,Discordo,Discordo
+440,Médio,Fácil,Não sei responder,Não sei responder
+441,Difícil,Fácil,Não se aplica,Não se aplica
+442,Médio,Médio,Não se aplica,Concordo parcialmente
+443,Muito difícil,Difícil,Concordo parcialmente,Concordo totalmente
+444,Muito difícil,Muito difícil,Discordo,Não sei responder
+445,Difícil,Médio,Concordo totalmente,Não se aplica
+446,Médio,Médio,Concordo totalmente,Não se aplica
+447,Difícil,Médio,Não sei responder,Discordo
+448,Difícil,Muito difícil,Não sei responder,Não sei responder
+449,Difícil,Difícil,Discordo,Não se aplica
+450,Resposta anulada,Difícil,Concordo parcialmente,Concordo parcialmente
+451,Fácil,Fácil,Discordo parcialmente,Concordo totalmente
+452,Muito fácil,Muito fácil,Concordo,Discordo totalmente
+453,Fácil,Fácil,Discordo,Discordo totalmente
+454,Difícil,Difícil,Discordo parcialmente,Concordo totalmente
+455,Médio,Muito fácil,Concordo,Concordo parcialmente
+456,Muito fácil,Resposta anulada,Discordo,Discordo
+457,Difícil,Muito difícil,Concordo,Concordo
+458,Muito fácil,Fácil,Concordo,Concordo totalmente
+459,Médio,Muito difícil,Não sei responder,Não sei responder
+460,Muito fácil,Médio,Concordo totalmente,Discordo parcialmente
+461,Difícil,Difícil,Discordo,Não sei responder
+462,Fácil,Muito difícil,Concordo totalmente,Concordo
+463,Muito difícil,Muito difícil,Não sei responder,Concordo parcialmente
+464,Médio,Resposta anulada,Concordo parcialmente,Não sei responder
+465,Muito fácil,Muito fácil,Concordo totalmente,Concordo
+466,Muito difícil,Muito difícil,Discordo parcialmente,Não se aplica
+467,Médio,Muito difícil,Discordo totalmente,Discordo parcialmente
+468,Difícil,Médio,Concordo,Não se aplica
+469,Fácil,Difícil,Discordo parcialmente,Concordo parcialmente
+470,Médio,Muito difícil,Concordo parcialmente,Discordo parcialmente
+471,Muito fácil,Muito fácil,Discordo parcialmente,Concordo parcialmente
+472,Médio,Médio,Não sei responder,Concordo
+473,Muito difícil,Muito fácil,Não se aplica,Não se aplica
+474,Muito difícil,Médio,Discordo,Concordo
+475,Muito difícil,Difícil,Discordo parcialmente,Concordo parcialmente
+476,Muito difícil,Difícil,Concordo parcialmente,Discordo parcialmente
+477,Muito difícil,Difícil,Discordo totalmente,Concordo parcialmente
+478,Difícil,Médio,Concordo parcialmente,Concordo totalmente
+479,Médio,Fácil,Concordo totalmente,Concordo
+480,Médio,Difícil,Concordo,Não sei responder
+481,Médio,Difícil,Concordo,Discordo parcialmente
+482,Muito fácil,Difícil,Discordo totalmente,Discordo
+483,Fácil,Médio,Concordo,Concordo parcialmente
+484,Médio,Médio,Concordo,Não sei responder
+485,Difícil,Médio,Discordo parcialmente,Concordo
+486,Muito fácil,Fácil,Concordo totalmente,Concordo totalmente
+487,Muito difícil,Muito difícil,Concordo,Discordo parcialmente
+488,Médio,Fácil,Discordo parcialmente,Discordo parcialmente
+489,Fácil,Difícil,Discordo parcialmente,Discordo parcialmente
+490,Muito difícil,Médio,Concordo,Concordo parcialmente
+491,Médio,Difícil,Concordo,Não se aplica
+492,Fácil,Médio,Concordo totalmente,Discordo
+493,Fácil,Resposta anulada,Discordo,Discordo
+494,Difícil,Médio,Discordo totalmente,Não se aplica
+495,Difícil,Médio,Discordo,Concordo parcialmente
+496,Médio,Difícil,Discordo parcialmente,Concordo
+497,Muito fácil,Difícil,Discordo parcialmente,Discordo totalmente
+498,Médio,Muito difícil,Concordo parcialmente,Concordo
+499,Médio,Fácil,Concordo parcialmente,Discordo parcialmente
+500,Difícil,Muito difícil,Discordo,Discordo parcialmente
+501,Fácil,Médio,Não se aplica,Concordo
+502,Muito difícil,Muito difícil,Discordo parcialmente,Concordo
+503,Difícil,Muito fácil,Discordo totalmente,Discordo parcialmente
+504,Difícil,Muito difícil,Discordo totalmente,Não se aplica
+505,Muito difícil,Muito difícil,Discordo,Concordo parcialmente
+506,Médio,Difícil,Não sei responder,Discordo parcialmente
+507,Difícil,Muito difícil,Não sei responder,Discordo parcialmente
+508,Difícil,Fácil,Concordo totalmente,Concordo
+509,Muito difícil,Muito difícil,Não sei responder,Não se aplica
+510,Médio,Muito difícil,Concordo totalmente,Discordo totalmente
+511,Muito difícil,Difícil,Concordo totalmente,Não se aplica
+512,Difícil,Médio,Discordo,Não sei responder
+513,Muito difícil,Muito difícil,Concordo,Discordo
+514,Fácil,Fácil,Discordo,Discordo parcialmente
+515,Muito fácil,Difícil,Concordo,Concordo
+516,Muito fácil,Difícil,Discordo,Discordo parcialmente
+517,Difícil,Muito difícil,Concordo parcialmente,Concordo totalmente
+518,Muito difícil,Muito difícil,Não sei responder,Concordo
+519,Difícil,Resposta anulada,Concordo,Discordo parcialmente
+520,Muito difícil,Muito difícil,Discordo parcialmente,Discordo
+521,Médio,Fácil,Concordo totalmente,Concordo parcialmente
+522,Médio,Médio,Discordo totalmente,Concordo totalmente
+523,Difícil,Resposta anulada,Não se aplica,Não se aplica
+524,Fácil,Fácil,Discordo totalmente,Discordo
+525,Médio,Médio,Concordo totalmente,Discordo
+526,Difícil,Difícil,Concordo totalmente,Discordo
+527,Difícil,Muito difícil,Concordo,Concordo totalmente
+528,Muito difícil,Difícil,Discordo parcialmente,Concordo totalmente
+529,Muito difícil,Muito difícil,Discordo parcialmente,Discordo totalmente
+530,Médio,Fácil,Discordo,Não se aplica
+531,Médio,Muito fácil,Discordo,Concordo parcialmente
+532,Difícil,Médio,Discordo totalmente,Não sei responder
+533,Difícil,Muito difícil,Discordo parcialmente,Discordo
+534,Fácil,Médio,Discordo parcialmente,Não sei responder
+535,Muito difícil,Difícil,Concordo,Concordo parcialmente
+536,Difícil,Muito difícil,Concordo parcialmente,Concordo
+537,Muito fácil,Médio,Concordo totalmente,Discordo totalmente
+538,Difícil,Resposta anulada,Concordo totalmente,Concordo totalmente
+539,Médio,Médio,Não sei responder,Discordo totalmente
+540,Difícil,Muito difícil,Discordo parcialmente,Não sei responder
+541,Muito difícil,Difícil,Discordo parcialmente,Concordo
+542,Muito difícil,Difícil,Concordo,Concordo totalmente
+543,Muito fácil,Fácil,Discordo parcialmente,Discordo
+544,Muito difícil,Difícil,Não sei responder,Discordo parcialmente
+545,Difícil,Médio,Concordo,Discordo
+546,Resposta anulada,Resposta anulada,Não sei responder,Discordo
+547,Muito fácil,Difícil,Concordo,Concordo totalmente
+548,Muito fácil,Muito fácil,Concordo,Concordo parcialmente
+549,Médio,Resposta anulada,Discordo,Discordo
+550,Difícil,Difícil,Discordo parcialmente,Não sei responder
+551,Médio,Difícil,Discordo totalmente,Concordo
+552,Difícil,Médio,Não se aplica,Discordo parcialmente
+553,Difícil,Médio,Concordo parcialmente,Não sei responder
+554,Fácil,Muito difícil,Não sei responder,Não sei responder
+555,Médio,Fácil,Concordo,Concordo parcialmente
+556,Difícil,Médio,Concordo totalmente,Não sei responder
+557,Fácil,Médio,Discordo,Não sei responder
+558,Resposta anulada,Resposta anulada,Concordo totalmente,Discordo totalmente
+559,Difícil,Muito difícil,Discordo totalmente,Discordo parcialmente
+560,Médio,Difícil,Não se aplica,Discordo
+561,Muito difícil,Difícil,Não sei responder,Discordo
+562,Muito fácil,Muito fácil,Discordo parcialmente,Discordo parcialmente
+563,Fácil,Difícil,Concordo,Concordo parcialmente
+564,Muito fácil,Fácil,Concordo,Concordo
+565,Fácil,Difícil,Concordo totalmente,Concordo
+566,Fácil,Médio,Concordo parcialmente,Discordo parcialmente
+567,Muito difícil,Muito difícil,Discordo totalmente,Não se aplica
+568,Difícil,Muito difícil,Concordo,Não se aplica
+569,Muito difícil,Muito difícil,Não se aplica,Concordo
+570,Difícil,Difícil,Não se aplica,Discordo
+571,Muito fácil,Fácil,Discordo,Concordo parcialmente
+572,Difícil,Difícil,Não sei responder,Concordo parcialmente
+573,Médio,Difícil,Discordo,Não se aplica
+574,Muito difícil,Muito difícil,Concordo totalmente,Discordo
+575,Difícil,Resposta anulada,Discordo,Discordo
+576,Fácil,Médio,Discordo totalmente,Não se aplica
+577,Difícil,Resposta anulada,Discordo totalmente,Discordo
+578,Difícil,Difícil,Não sei responder,Discordo parcialmente
+579,Muito fácil,Muito fácil,Concordo,Concordo totalmente
+580,Fácil,Médio,Discordo parcialmente,Concordo parcialmente
+581,Muito fácil,Médio,Não se aplica,Discordo parcialmente
+582,Muito difícil,Fácil,Concordo totalmente,Não se aplica
+583,Fácil,Difícil,Discordo parcialmente,Discordo
+584,Muito fácil,Difícil,Concordo,Discordo
+585,Fácil,Fácil,Concordo totalmente,Concordo
+586,Fácil,Muito fácil,Discordo totalmente,Discordo
+587,Fácil,Difícil,Concordo parcialmente,Concordo
+588,Fácil,Fácil,Concordo totalmente,Não sei responder
+589,Difícil,Fácil,Discordo parcialmente,Discordo
+590,Muito fácil,Muito fácil,Concordo parcialmente,Concordo
+591,Resposta anulada,Fácil,Discordo,Discordo
+592,Difícil,Difícil,Concordo,Não sei responder
+593,Fácil,Muito fácil,Concordo parcialmente,Concordo parcialmente
+594,Médio,Muito fácil,Concordo parcialmente,Não sei responder
+595,Muito difícil,Médio,Concordo parcialmente,Concordo totalmente
+596,Difícil,Muito fácil,Não se aplica,Não se aplica
+597,Muito fácil,Médio,Discordo,Discordo totalmente
+598,Fácil,Fácil,Discordo parcialmente,Concordo
+599,Fácil,Difícil,Concordo,Concordo
+600,Muito difícil,Médio,Não sei responder,Discordo parcialmente
+601,Muito fácil,Fácil,Concordo,Concordo parcialmente
+602,Muito fácil,Muito fácil,Discordo parcialmente,Não se aplica
+603,Fácil,Médio,Discordo parcialmente,Concordo totalmente
+604,Difícil,Difícil,Concordo totalmente,Discordo parcialmente
+605,Difícil,Fácil,Concordo parcialmente,Discordo
+606,Muito difícil,Muito difícil,Discordo parcialmente,Não sei responder
+607,Médio,Médio,Não se aplica,Discordo parcialmente
+608,Muito difícil,Médio,Concordo parcialmente,Discordo parcialmente
+609,Difícil,Muito difícil,Não sei responder,Não se aplica
+610,Muito fácil,Resposta anulada,Discordo,Não se aplica
+611,Muito fácil,Difícil,Discordo totalmente,Concordo
+612,Muito difícil,Difícil,Concordo totalmente,Discordo parcialmente
+613,Muito difícil,Médio,Não se aplica,Não se aplica
+614,Médio,Fácil,Discordo,Discordo totalmente
+615,Fácil,Médio,Discordo totalmente,Discordo
+616,Muito difícil,Muito fácil,Concordo,Não sei responder
+617,Médio,Difícil,Discordo totalmente,Não sei responder
+618,Resposta anulada,Médio,Concordo,Discordo parcialmente
+619,Muito fácil,Muito difícil,Discordo,Discordo parcialmente
+620,Muito fácil,Muito difícil,Concordo,Concordo
+621,Fácil,Médio,Discordo,Discordo parcialmente
+622,Muito difícil,Muito difícil,Não se aplica,Discordo parcialmente
+623,Difícil,Difícil,Concordo,Discordo
+624,Muito fácil,Fácil,Discordo parcialmente,Discordo parcialmente
+625,Fácil,Fácil,Concordo,Discordo parcialmente
+626,Fácil,Fácil,Concordo totalmente,Discordo
+627,Médio,Fácil,Concordo parcialmente,Discordo
+628,Muito difícil,Fácil,Discordo totalmente,Discordo
+629,Médio,Difícil,Concordo totalmente,Concordo parcialmente
+630,Muito difícil,Difícil,Concordo parcialmente,Discordo totalmente
+631,Difícil,Médio,Concordo,Não sei responder
+632,Fácil,Muito fácil,Concordo,Concordo
+633,Difícil,Resposta anulada,Concordo parcialmente,Concordo parcialmente
+634,Fácil,Médio,Concordo,Não sei responder
+635,Difícil,Muito fácil,Concordo parcialmente,Não sei responder
+636,Muito fácil,Muito fácil,Discordo parcialmente,Discordo
+637,Fácil,Muito difícil,Concordo parcialmente,Não se aplica
+638,Médio,Muito difícil,Discordo,Concordo
+639,Difícil,Muito difícil,Não se aplica,Discordo
+640,Médio,Muito difícil,Discordo,Discordo parcialmente
+641,Resposta anulada,Resposta anulada,Discordo parcialmente,Não se aplica
+642,Médio,Fácil,Concordo,Concordo totalmente
+643,Muito fácil,Muito fácil,Não sei responder,Não sei responder
+644,Difícil,Muito difícil,Concordo totalmente,Discordo
+645,Médio,Fácil,Concordo,Discordo totalmente
+646,Difícil,Fácil,Discordo,Discordo
+647,Médio,Fácil,Discordo parcialmente,Discordo totalmente
+648,Muito difícil,Fácil,Discordo,Concordo
+649,Muito fácil,Médio,Discordo parcialmente,Concordo
+650,Fácil,Muito fácil,Discordo parcialmente,Concordo parcialmente
+651,Médio,Muito difícil,Concordo parcialmente,Discordo
+652,Muito difícil,Difícil,Concordo,Discordo totalmente
+653,Médio,Fácil,Concordo,Discordo
+654,Muito fácil,Muito fácil,Discordo totalmente,Discordo
+655,Difícil,Muito fácil,Discordo parcialmente,Discordo parcialmente
+656,Difícil,Fácil,Discordo,Discordo totalmente
+657,Muito fácil,Médio,Discordo parcialmente,Concordo totalmente
+658,Médio,Difícil,Concordo parcialmente,Discordo
+659,Médio,Muito difícil,Concordo,Discordo parcialmente
+660,Muito fácil,Muito difícil,Não se aplica,Não se aplica
+661,Difícil,Difícil,Concordo parcialmente,Não sei responder
+662,Muito difícil,Médio,Não se aplica,Não sei responder
+663,Médio,Muito difícil,Concordo totalmente,Concordo
+664,Fácil,Muito fácil,Discordo parcialmente,Discordo parcialmente
+665,Muito difícil,Médio,Discordo,Concordo parcialmente
+666,Médio,Difícil,Concordo parcialmente,Não sei responder
+667,Difícil,Difícil,Discordo,Concordo parcialmente
+668,Muito difícil,Muito difícil,Discordo,Não se aplica
+669,Fácil,Resposta anulada,Discordo,Discordo parcialmente
+670,Médio,Difícil,Não se aplica,Concordo parcialmente
+671,Médio,Fácil,Não sei responder,Concordo totalmente
+672,Resposta anulada,Resposta anulada,Concordo,Não se aplica
+673,Fácil,Difícil,Concordo,Discordo totalmente
+674,Muito difícil,Médio,Concordo totalmente,Discordo parcialmente
+675,Fácil,Difícil,Concordo,Concordo totalmente
+676,Fácil,Difícil,Não sei responder,Não sei responder
+677,Muito difícil,Difícil,Discordo,Concordo
+678,Muito difícil,Muito difícil,Não se aplica,Concordo parcialmente
+679,Fácil,Médio,Concordo totalmente,Não sei responder
+680,Resposta anulada,Resposta anulada,Concordo,Não sei responder
+681,Médio,Difícil,Não se aplica,Concordo totalmente
+682,Muito fácil,Fácil,Concordo parcialmente,Discordo parcialmente
+683,Resposta anulada,Muito fácil,Discordo,Não se aplica
+684,Médio,Muito difícil,Discordo totalmente,Concordo
+685,Médio,Fácil,Concordo,Não se aplica
+686,Resposta anulada,Resposta anulada,Discordo parcialmente,Concordo
+687,Difícil,Muito fácil,Discordo,Discordo parcialmente
+688,Muito fácil,Fácil,Discordo parcialmente,Concordo parcialmente
+689,Difícil,Muito difícil,Não se aplica,Discordo parcialmente
+690,Muito difícil,Fácil,Concordo parcialmente,Concordo
+691,Fácil,Fácil,Concordo totalmente,Concordo parcialmente
+692,Difícil,Médio,Concordo parcialmente,Discordo totalmente
+693,Resposta anulada,Médio,Concordo,Concordo totalmente
+694,Médio,Fácil,Concordo totalmente,Discordo parcialmente
+695,Muito fácil,Difícil,Discordo parcialmente,Discordo parcialmente
+696,Difícil,Muito difícil,Discordo,Concordo parcialmente
+697,Médio,Muito difícil,Concordo,Concordo parcialmente
+698,Fácil,Muito difícil,Discordo,Discordo parcialmente
+699,Muito fácil,Médio,Concordo,Concordo parcialmente
+700,Fácil,Fácil,Concordo parcialmente,Não sei responder
+701,Resposta anulada,Resposta anulada,Não se aplica,Concordo parcialmente
+702,Médio,Resposta anulada,Discordo parcialmente,Concordo parcialmente
+703,Fácil,Muito difícil,Concordo totalmente,Concordo parcialmente
+704,Difícil,Fácil,Concordo,Discordo
+705,Difícil,Fácil,Concordo,Discordo parcialmente
+706,Muito difícil,Médio,Discordo parcialmente,Concordo parcialmente
+707,Fácil,Médio,Discordo parcialmente,Não se aplica
+708,Médio,Resposta anulada,Concordo totalmente,Concordo totalmente
+709,Muito difícil,Muito difícil,Concordo parcialmente,Não se aplica
+710,Médio,Resposta anulada,Concordo totalmente,Concordo
+711,Médio,Fácil,Concordo parcialmente,Concordo
+712,Médio,Difícil,Não sei responder,Concordo totalmente
+713,Muito difícil,Muito difícil,Concordo totalmente,Não se aplica
+714,Muito difícil,Difícil,Discordo,Concordo parcialmente
+715,Fácil,Fácil,Discordo parcialmente,Discordo
+716,Difícil,Fácil,Discordo parcialmente,Concordo parcialmente
+717,Fácil,Médio,Discordo totalmente,Concordo totalmente
+718,Muito fácil,Fácil,Não sei responder,Não sei responder
+719,Muito fácil,Muito fácil,Discordo,Concordo parcialmente
+720,Resposta anulada,Resposta anulada,Concordo totalmente,Não sei responder
+721,Médio,Fácil,Discordo parcialmente,Concordo
+722,Difícil,Muito difícil,Concordo totalmente,Concordo
+723,Muito difícil,Médio,Discordo totalmente,Não se aplica
+724,Fácil,Muito difícil,Discordo parcialmente,Discordo
+725,Muito difícil,Médio,Discordo,Não se aplica
+726,Médio,Fácil,Concordo,Discordo parcialmente
+727,Muito fácil,Fácil,Discordo totalmente,Não sei responder
+728,Fácil,Muito difícil,Discordo totalmente,Discordo parcialmente
+729,Difícil,Médio,Não sei responder,Discordo totalmente
+730,Difícil,Muito difícil,Concordo parcialmente,Não se aplica
+731,Fácil,Médio,Concordo parcialmente,Discordo
+732,Muito fácil,Muito fácil,Concordo,Discordo parcialmente
+733,Muito difícil,Médio,Concordo,Discordo totalmente
+734,Muito difícil,Difícil,Discordo,Não se aplica
+735,Muito difícil,Muito fácil,Discordo,Discordo parcialmente
+736,Muito difícil,Médio,Concordo totalmente,Não se aplica
+737,Muito fácil,Difícil,Discordo totalmente,Não se aplica
+738,Muito difícil,Muito difícil,Concordo,Não sei responder
+739,Difícil,Muito difícil,Concordo,Concordo parcialmente
+740,Fácil,Médio,Concordo,Discordo
+741,Resposta anulada,Médio,Discordo,Discordo totalmente
+742,Fácil,Muito fácil,Não se aplica,Não se aplica
+743,Médio,Resposta anulada,Concordo parcialmente,Concordo totalmente
+744,Médio,Muito fácil,Discordo parcialmente,Discordo parcialmente
+745,Difícil,Muito difícil,Concordo,Discordo
+746,Resposta anulada,Fácil,Concordo,Concordo
+747,Resposta anulada,Muito difícil,Concordo,Discordo parcialmente
+748,Muito fácil,Médio,Concordo parcialmente,Concordo parcialmente
+749,Difícil,Médio,Não sei responder,Discordo parcialmente
+750,Muito difícil,Médio,Concordo,Concordo totalmente
+751,Muito difícil,Médio,Discordo totalmente,Concordo parcialmente
+752,Muito difícil,Difícil,Não se aplica,Concordo parcialmente
+753,Médio,Muito fácil,Discordo,Discordo
+754,Difícil,Médio,Discordo,Concordo totalmente
+755,Fácil,Muito fácil,Concordo totalmente,Discordo parcialmente
+756,Difícil,Muito fácil,Concordo parcialmente,Concordo parcialmente
+757,Fácil,Médio,Concordo totalmente,Discordo totalmente
+758,Fácil,Difícil,Discordo totalmente,Concordo parcialmente
+759,Médio,Fácil,Concordo parcialmente,Não sei responder
+760,Fácil,Médio,Concordo,Não se aplica
+761,Difícil,Médio,Não se aplica,Discordo
+762,Fácil,Resposta anulada,Discordo parcialmente,Discordo parcialmente
+763,Muito difícil,Médio,Discordo totalmente,Concordo
+764,Muito fácil,Fácil,Discordo totalmente,Discordo
+765,Médio,Difícil,Discordo parcialmente,Não se aplica
+766,Resposta anulada,Médio,Concordo parcialmente,Concordo parcialmente
+767,Muito fácil,Médio,Concordo parcialmente,Concordo
+768,Difícil,Médio,Não se aplica,Concordo parcialmente
+769,Médio,Muito fácil,Concordo,Concordo
+770,Fácil,Difícil,Discordo parcialmente,Discordo totalmente
+771,Muito fácil,Muito difícil,Concordo parcialmente,Concordo parcialmente
+772,Difícil,Muito fácil,Não se aplica,Concordo parcialmente
+773,Fácil,Médio,Concordo,Discordo parcialmente
+774,Difícil,Muito difícil,Concordo parcialmente,Discordo
+775,Médio,Muito difícil,Não sei responder,Não se aplica
+776,Difícil,Médio,Não se aplica,Não sei responder
+777,Difícil,Médio,Discordo,Concordo
+778,Muito fácil,Fácil,Concordo,Não sei responder
+779,Difícil,Muito fácil,Concordo,Concordo totalmente
+780,Fácil,Fácil,Discordo totalmente,Não se aplica
+781,Muito difícil,Médio,Discordo parcialmente,Discordo totalmente
+782,Difícil,Fácil,Concordo parcialmente,Concordo parcialmente
+783,Difícil,Muito difícil,Discordo parcialmente,Não se aplica
+784,Muito fácil,Muito fácil,Não se aplica,Discordo totalmente
+785,Fácil,Muito difícil,Concordo,Concordo parcialmente
+786,Difícil,Muito difícil,Discordo,Não se aplica
+787,Fácil,Difícil,Concordo,Não se aplica
+788,Difícil,Difícil,Não sei responder,Concordo totalmente
+789,Médio,Muito fácil,Concordo totalmente,Concordo totalmente
+790,Fácil,Fácil,Discordo parcialmente,Não se aplica
+791,Difícil,Fácil,Concordo,Não se aplica
+792,Muito difícil,Médio,Não sei responder,Concordo parcialmente
+793,Fácil,Muito difícil,Concordo totalmente,Concordo totalmente
+794,Fácil,Difícil,Concordo,Não sei responder
+795,Médio,Muito fácil,Concordo,Concordo totalmente
+796,Médio,Fácil,Discordo parcialmente,Não se aplica
+797,Muito fácil,Médio,Concordo parcialmente,Discordo
+798,Muito difícil,Muito fácil,Discordo parcialmente,Concordo parcialmente
+799,Médio,Difícil,Não se aplica,Não sei responder
+800,Muito difícil,Muito fácil,Concordo parcialmente,Discordo parcialmente
+801,Resposta anulada,Resposta anulada,Não se aplica,Concordo
+802,Muito fácil,Muito fácil,Discordo,Discordo parcialmente
+803,Muito fácil,Médio,Não sei responder,Discordo totalmente
+804,Muito fácil,Difícil,Discordo parcialmente,Discordo
+805,Médio,Muito difícil,Discordo totalmente,Concordo parcialmente
+806,Fácil,Difícil,Concordo,Discordo parcialmente
+807,Fácil,Difícil,Discordo,Discordo parcialmente
+808,Médio,Resposta anulada,Concordo parcialmente,Discordo parcialmente
+809,Difícil,Fácil,Concordo parcialmente,Discordo parcialmente
+810,Fácil,Difícil,Discordo,Não se aplica
+811,Difícil,Médio,Discordo totalmente,Concordo
+812,Médio,Muito difícil,Concordo totalmente,Não se aplica
+813,Muito fácil,Muito fácil,Discordo parcialmente,Não sei responder
+814,Médio,Muito difícil,Não se aplica,Concordo parcialmente
+815,Muito fácil,Médio,Concordo totalmente,Concordo parcialmente
+816,Difícil,Difícil,Concordo,Discordo totalmente
+817,Muito difícil,Fácil,Discordo parcialmente,Discordo parcialmente
+818,Muito fácil,Fácil,Discordo parcialmente,Não sei responder
+819,Muito fácil,Resposta anulada,Discordo parcialmente,Discordo parcialmente
+820,Muito difícil,Médio,Concordo totalmente,Não sei responder
+821,Médio,Muito fácil,Discordo totalmente,Discordo
+822,Médio,Muito difícil,Discordo,Discordo totalmente
+823,Muito difícil,Difícil,Concordo totalmente,Concordo
+824,Fácil,Fácil,Discordo,Concordo
+825,Fácil,Fácil,Concordo parcialmente,Discordo
+826,Médio,Difícil,Não se aplica,Discordo totalmente
+827,Difícil,Difícil,Não sei responder,Discordo
+828,Fácil,Difícil,Concordo parcialmente,Não se aplica
+829,Médio,Muito difícil,Concordo totalmente,Não sei responder
+830,Médio,Resposta anulada,Discordo parcialmente,Discordo parcialmente
+831,Muito fácil,Difícil,Concordo parcialmente,Concordo parcialmente
+832,Muito difícil,Resposta anulada,Concordo parcialmente,Discordo parcialmente
+833,Muito fácil,Médio,Discordo totalmente,Discordo
+834,Resposta anulada,Médio,Não se aplica,Não se aplica
+835,Resposta anulada,Difícil,Discordo,Discordo
+836,Fácil,Médio,Concordo parcialmente,Discordo totalmente
+837,Médio,Difícil,Concordo totalmente,Não sei responder
+838,Difícil,Difícil,Não se aplica,Não sei responder
+839,Difícil,Médio,Não sei responder,Concordo totalmente
+840,Muito difícil,Muito difícil,Concordo,Não se aplica
+841,Muito fácil,Fácil,Concordo parcialmente,Concordo totalmente
+842,Resposta anulada,Resposta anulada,Discordo parcialmente,Não sei responder
+843,Fácil,Difícil,Concordo,Discordo
+844,Fácil,Fácil,Concordo parcialmente,Concordo
+845,Médio,Fácil,Concordo totalmente,Não sei responder
+846,Médio,Muito difícil,Concordo parcialmente,Não se aplica
+847,Muito difícil,Fácil,Concordo parcialmente,Discordo
+848,Fácil,Fácil,Concordo parcialmente,Discordo parcialmente
+849,Fácil,Fácil,Discordo parcialmente,Não sei responder
+850,Difícil,Muito difícil,Discordo parcialmente,Concordo
+851,Médio,Muito fácil,Não sei responder,Não sei responder
+852,Muito difícil,Resposta anulada,Concordo parcialmente,Concordo parcialmente
+853,Muito difícil,Resposta anulada,Não sei responder,Não sei responder
+854,Médio,Fácil,Não se aplica,Discordo
+855,Fácil,Fácil,Discordo,Concordo parcialmente
+856,Muito difícil,Muito difícil,Discordo,Concordo totalmente
+857,Muito difícil,Difícil,Concordo totalmente,Concordo parcialmente
+858,Muito difícil,Muito difícil,Não se aplica,Discordo
+859,Muito fácil,Fácil,Discordo,Discordo totalmente
+860,Muito difícil,Muito difícil,Não se aplica,Discordo totalmente
+861,Difícil,Médio,Discordo parcialmente,Não sei responder
+862,Médio,Difícil,Não se aplica,Concordo
+863,Médio,Fácil,Concordo totalmente,Não se aplica
+864,Muito fácil,Médio,Discordo parcialmente,Discordo
+865,Médio,Fácil,Discordo parcialmente,Não sei responder
+866,Fácil,Difícil,Concordo parcialmente,Concordo totalmente
+867,Médio,Fácil,Concordo parcialmente,Não se aplica
+868,Médio,Muito fácil,Concordo parcialmente,Concordo parcialmente
+869,Muito fácil,Muito fácil,Discordo,Concordo
+870,Muito difícil,Fácil,Concordo,Discordo
+871,Difícil,Difícil,Discordo,Concordo totalmente
+872,Muito fácil,Difícil,Concordo parcialmente,Não se aplica
+873,Muito fácil,Resposta anulada,Concordo totalmente,Concordo totalmente
+874,Médio,Muito difícil,Não sei responder,Discordo
+875,Médio,Muito fácil,Concordo parcialmente,Discordo parcialmente
+876,Fácil,Muito fácil,Não sei responder,Não sei responder
+877,Fácil,Fácil,Discordo totalmente,Concordo parcialmente
+878,Muito difícil,Muito fácil,Concordo,Concordo
+879,Fácil,Muito fácil,Concordo parcialmente,Discordo parcialmente
+880,Médio,Difícil,Não sei responder,Concordo parcialmente
+881,Médio,Fácil,Não se aplica,Concordo parcialmente
+882,Resposta anulada,Fácil,Discordo parcialmente,Concordo parcialmente
+883,Difícil,Resposta anulada,Discordo totalmente,Concordo
+884,Difícil,Fácil,Concordo totalmente,Não sei responder
+885,Médio,Muito difícil,Não se aplica,Concordo
+886,Fácil,Difícil,Discordo,Concordo parcialmente
+887,Fácil,Médio,Concordo parcialmente,Não se aplica
+888,Fácil,Médio,Discordo totalmente,Concordo parcialmente
+889,Fácil,Fácil,Concordo parcialmente,Concordo totalmente
+890,Médio,Difícil,Não se aplica,Discordo parcialmente
+891,Médio,Muito fácil,Discordo parcialmente,Concordo
+892,Muito fácil,Fácil,Discordo totalmente,Discordo parcialmente
+893,Fácil,Muito fácil,Concordo parcialmente,Não se aplica
+894,Muito fácil,Muito difícil,Discordo parcialmente,Concordo parcialmente
+895,Médio,Fácil,Concordo totalmente,Discordo
+896,Resposta anulada,Resposta anulada,Não se aplica,Discordo parcialmente
+897,Muito fácil,Fácil,Concordo,Não se aplica
+898,Difícil,Fácil,Não sei responder,Não sei responder
+899,Fácil,Fácil,Discordo parcialmente,Concordo parcialmente
+900,Muito fácil,Muito difícil,Concordo,Concordo parcialmente
+901,Muito fácil,Difícil,Concordo,Concordo parcialmente
+902,Difícil,Difícil,Não se aplica,Concordo
+903,Médio,Muito fácil,Discordo parcialmente,Concordo parcialmente
+904,Fácil,Médio,Discordo parcialmente,Discordo totalmente
+905,Muito difícil,Médio,Não sei responder,Não sei responder
+906,Muito fácil,Médio,Concordo,Não sei responder
+907,Muito fácil,Muito fácil,Concordo parcialmente,Não sei responder
+908,Médio,Muito difícil,Concordo,Concordo totalmente
+909,Muito difícil,Muito difícil,Concordo totalmente,Discordo parcialmente
+910,Fácil,Fácil,Discordo parcialmente,Discordo totalmente
+911,Fácil,Resposta anulada,Concordo,Concordo parcialmente
+912,Médio,Resposta anulada,Concordo,Concordo
+913,Muito difícil,Médio,Concordo parcialmente,Concordo
+914,Fácil,Fácil,Concordo,Concordo parcialmente
+915,Muito fácil,Fácil,Concordo totalmente,Concordo parcialmente
+916,Médio,Resposta anulada,Discordo totalmente,Discordo parcialmente
+917,Muito difícil,Difícil,Não sei responder,Não se aplica
+918,Fácil,Médio,Concordo parcialmente,Concordo totalmente
+919,Médio,Muito difícil,Discordo parcialmente,Concordo parcialmente
+920,Muito difícil,Muito difícil,Discordo totalmente,Concordo totalmente
+921,Resposta anulada,Resposta anulada,Não sei responder,Concordo
+922,Muito fácil,Difícil,Não se aplica,Discordo
+923,Muito fácil,Médio,Discordo parcialmente,Concordo parcialmente
+924,Fácil,Médio,Discordo,Concordo parcialmente
+925,Resposta anulada,Médio,Discordo,Discordo
+926,Médio,Muito difícil,Discordo totalmente,Discordo
+927,Fácil,Muito fácil,Concordo totalmente,Não se aplica
+928,Fácil,Muito fácil,Concordo totalmente,Concordo totalmente
+929,Muito difícil,Fácil,Não se aplica,Discordo parcialmente
+930,Médio,Resposta anulada,Discordo totalmente,Discordo
+931,Fácil,Muito fácil,Concordo totalmente,Concordo parcialmente
+932,Difícil,Médio,Não sei responder,Concordo
+933,Médio,Resposta anulada,Concordo parcialmente,Discordo
+934,Médio,Fácil,Não se aplica,Discordo totalmente
+935,Médio,Médio,Não se aplica,Concordo totalmente
+936,Muito difícil,Muito fácil,Concordo parcialmente,Concordo parcialmente
+937,Muito fácil,Fácil,Concordo parcialmente,Concordo
+938,Muito fácil,Médio,Discordo,Concordo parcialmente
+939,Fácil,Médio,Discordo,Não se aplica
+940,Fácil,Difícil,Concordo totalmente,Concordo parcialmente
+941,Difícil,Resposta anulada,Não sei responder,Não sei responder
+942,Resposta anulada,Médio,Concordo totalmente,Concordo totalmente
+943,Fácil,Fácil,Não sei responder,Discordo parcialmente
+944,Fácil,Muito fácil,Concordo,Concordo totalmente
+945,Fácil,Muito difícil,Discordo totalmente,Discordo
+946,Muito fácil,Muito difícil,Concordo,Não se aplica
+947,Resposta anulada,Muito fácil,Discordo,Discordo
+948,Muito fácil,Muito difícil,Concordo,Discordo parcialmente
+949,Muito fácil,Médio,Discordo totalmente,Concordo
+950,Fácil,Médio,Não sei responder,Concordo parcialmente
+951,Médio,Muito difícil,Discordo,Concordo parcialmente
+952,Difícil,Fácil,Discordo,Discordo parcialmente
+953,Muito difícil,Difícil,Concordo,Discordo parcialmente
+954,Fácil,Médio,Não sei responder,Discordo parcialmente
+955,Muito fácil,Médio,Concordo parcialmente,Discordo parcialmente
+956,Resposta anulada,Fácil,Concordo parcialmente,Discordo
+957,Muito fácil,Fácil,Discordo totalmente,Não se aplica
+958,Muito difícil,Difícil,Discordo parcialmente,Não se aplica
+959,Fácil,Muito difícil,Discordo parcialmente,Discordo parcialmente
+960,Médio,Muito fácil,Concordo parcialmente,Discordo
+961,Fácil,Difícil,Concordo totalmente,Discordo parcialmente
+962,Médio,Muito fácil,Discordo,Discordo totalmente
+963,Difícil,Muito fácil,Concordo,Concordo parcialmente
+964,Muito fácil,Fácil,Não se aplica,Não sei responder
+965,Muito fácil,Difícil,Não sei responder,Não sei responder
+966,Médio,Muito difícil,Concordo,Discordo
+967,Médio,Resposta anulada,Não se aplica,Concordo parcialmente
+968,Muito difícil,Muito difícil,Concordo parcialmente,Discordo totalmente
+969,Muito difícil,Difícil,Concordo totalmente,Discordo totalmente
+970,Muito fácil,Difícil,Concordo parcialmente,Discordo parcialmente
+971,Fácil,Difícil,Não se aplica,Discordo
+972,Médio,Muito fácil,Concordo,Não sei responder
+973,Muito difícil,Difícil,Concordo parcialmente,Concordo
+974,Médio,Muito difícil,Concordo,Não se aplica
+975,Muito fácil,Fácil,Discordo,Discordo parcialmente
+976,Muito fácil,Médio,Discordo totalmente,Discordo parcialmente
+977,Muito difícil,Muito difícil,Concordo parcialmente,Concordo totalmente
+978,Fácil,Muito difícil,Concordo totalmente,Discordo totalmente
+979,Resposta anulada,Médio,Não se aplica,Discordo totalmente
+980,Muito difícil,Médio,Concordo,Não se aplica
+981,Muito difícil,Médio,Discordo totalmente,Discordo
+982,Médio,Resposta anulada,Discordo,Discordo parcialmente
+983,Difícil,Médio,Concordo totalmente,Discordo
+984,Muito fácil,Resposta anulada,Concordo,Concordo
+985,Fácil,Difícil,Concordo totalmente,Não se aplica
+986,Muito difícil,Médio,Concordo totalmente,Concordo
+987,Muito difícil,Resposta anulada,Discordo parcialmente,Concordo parcialmente
+988,Médio,Fácil,Discordo totalmente,Concordo totalmente
+989,Difícil,Muito difícil,Concordo totalmente,Discordo parcialmente
+990,Fácil,Muito fácil,Discordo totalmente,Não se aplica
+991,Muito fácil,Muito fácil,Discordo,Não se aplica
+992,Médio,Muito fácil,Concordo parcialmente,Concordo totalmente
+993,Fácil,Fácil,Discordo totalmente,Discordo parcialmente
+994,Muito difícil,Difícil,Concordo parcialmente,Não se aplica
+995,Fácil,Resposta anulada,Concordo parcialmente,Concordo parcialmente
+996,Muito difícil,Médio,Discordo,Discordo totalmente
+997,Muito difícil,Difícil,Discordo totalmente,Não se aplica
+998,Fácil,Muito difícil,Não se aplica,Não se aplica
+999,Fácil,Difícil,Discordo parcialmente,Concordo totalmente
+1000,Muito fácil,Fácil,Não se aplica,Discordo parcialmente
+1001,Fácil,Médio,Discordo,Concordo
+1002,Muito fácil,Difícil,Discordo parcialmente,Não sei responder
+1003,Difícil,Muito fácil,Discordo parcialmente,Concordo parcialmente
+1004,Muito difícil,Médio,Concordo,Discordo parcialmente
+1005,Muito difícil,Muito difícil,Não sei responder,Concordo totalmente
+1006,Fácil,Fácil,Discordo totalmente,Concordo
+1007,Muito difícil,Fácil,Discordo,Discordo
+1008,Muito fácil,Médio,Concordo parcialmente,Concordo totalmente
+1009,Fácil,Muito difícil,Discordo,Concordo
+1010,Médio,Fácil,Concordo totalmente,Discordo totalmente
+1011,Muito difícil,Difícil,Não se aplica,Discordo
+1012,Muito fácil,Muito difícil,Discordo parcialmente,Discordo
+1013,Difícil,Muito fácil,Discordo totalmente,Discordo
+1014,Difícil,Resposta anulada,Discordo parcialmente,Discordo parcialmente
+1015,Fácil,Difícil,Discordo totalmente,Discordo
+1016,Muito fácil,Fácil,Concordo parcialmente,Discordo
+1017,Muito difícil,Difícil,Concordo totalmente,Não sei responder
+1018,Fácil,Muito difícil,Discordo parcialmente,Concordo totalmente
+1019,Médio,Muito fácil,Discordo totalmente,Discordo parcialmente
+1020,Muito difícil,Difícil,Discordo totalmente,Concordo totalmente
+1021,Resposta anulada,Difícil,Discordo parcialmente,Discordo parcialmente
+1022,Muito difícil,Muito fácil,Discordo,Discordo
+1023,Muito difícil,Fácil,Não se aplica,Não se aplica
+1024,Muito difícil,Difícil,Discordo parcialmente,Não sei responder
+1025,Fácil,Difícil,Discordo totalmente,Discordo parcialmente
+1026,Muito fácil,Fácil,Discordo,Não sei responder
+1027,Médio,Resposta anulada,Concordo parcialmente,Concordo parcialmente
+1028,Resposta anulada,Fácil,Concordo parcialmente,Concordo parcialmente
+1029,Médio,Fácil,Discordo totalmente,Não sei responder
+1030,Fácil,Médio,Discordo,Concordo totalmente
+1031,Médio,Difícil,Não sei responder,Discordo totalmente
+1032,Muito difícil,Muito difícil,Não se aplica,Concordo totalmente
+1033,Muito difícil,Difícil,Não se aplica,Não sei responder
+1034,Difícil,Resposta anulada,Concordo,Concordo
+1035,Resposta anulada,Resposta anulada,Discordo,Não sei responder
+1036,Difícil,Muito difícil,Não sei responder,Discordo
+1037,Muito fácil,Difícil,Discordo parcialmente,Concordo
+1038,Muito difícil,Difícil,Concordo parcialmente,Discordo
+1039,Muito fácil,Médio,Discordo totalmente,Concordo parcialmente
+1040,Muito fácil,Médio,Concordo,Concordo totalmente
+1041,Difícil,Médio,Não se aplica,Concordo
+1042,Muito fácil,Difícil,Discordo,Não se aplica
+1043,Resposta anulada,Resposta anulada,Não sei responder,Concordo parcialmente
+1044,Muito fácil,Muito fácil,Concordo totalmente,Discordo
+1045,Resposta anulada,Médio,Discordo parcialmente,Discordo parcialmente
+1046,Muito fácil,Médio,Não sei responder,Não sei responder
+1047,Fácil,Médio,Discordo parcialmente,Concordo
+1048,Resposta anulada,Difícil,Concordo,Concordo
+1049,Muito fácil,Muito difícil,Concordo totalmente,Concordo parcialmente
+1050,Muito difícil,Fácil,Discordo parcialmente,Discordo
+1051,Médio,Muito difícil,Concordo totalmente,Discordo
+1052,Muito fácil,Resposta anulada,Discordo,Discordo parcialmente
+1053,Muito difícil,Muito fácil,Concordo totalmente,Concordo totalmente
+1054,Resposta anulada,Muito difícil,Discordo parcialmente,Discordo parcialmente
+1055,Resposta anulada,Resposta anulada,Discordo,Concordo totalmente
+1056,Resposta anulada,Médio,Concordo parcialmente,Concordo
+1057,Muito difícil,Médio,Não sei responder,Não se aplica
+1058,Difícil,Médio,Não sei responder,Concordo parcialmente
+1059,Difícil,Médio,Não sei responder,Não se aplica
+1060,Médio,Difícil,Não sei responder,Concordo
+1061,Muito difícil,Muito difícil,Concordo totalmente,Não sei responder
+1062,Fácil,Fácil,Concordo,Discordo totalmente
+1063,Difícil,Fácil,Concordo,Concordo parcialmente
+1064,Fácil,Muito difícil,Concordo totalmente,Discordo parcialmente
+1065,Muito difícil,Muito fácil,Discordo,Discordo totalmente
+1066,Muito fácil,Difícil,Concordo parcialmente,Concordo totalmente
+1067,Muito difícil,Fácil,Discordo totalmente,Discordo parcialmente
+1068,Fácil,Médio,Não se aplica,Discordo totalmente
+1069,Fácil,Médio,Concordo parcialmente,Não sei responder
+1070,Muito difícil,Difícil,Discordo,Concordo totalmente
+1071,Fácil,Fácil,Não se aplica,Concordo parcialmente
+1072,Médio,Muito fácil,Concordo parcialmente,Discordo totalmente
+1073,Muito fácil,Médio,Concordo,Discordo parcialmente
+1074,Fácil,Muito fácil,Discordo parcialmente,Não se aplica
+1075,Muito fácil,Difícil,Concordo totalmente,Concordo
+1076,Muito fácil,Muito difícil,Discordo totalmente,Concordo parcialmente
+1077,Muito fácil,Fácil,Discordo parcialmente,Discordo totalmente
+1078,Médio,Muito difícil,Discordo parcialmente,Concordo
+1079,Difícil,Muito difícil,Concordo totalmente,Não se aplica
+1080,Médio,Fácil,Concordo parcialmente,Discordo totalmente
+1081,Muito difícil,Fácil,Concordo parcialmente,Concordo parcialmente
+1082,Muito fácil,Médio,Não sei responder,Concordo
+1083,Difícil,Fácil,Concordo parcialmente,Concordo
+1084,Médio,Muito fácil,Concordo totalmente,Concordo
+1085,Muito difícil,Médio,Concordo parcialmente,Discordo
+1086,Muito fácil,Resposta anulada,Concordo parcialmente,Concordo parcialmente
+1087,Muito difícil,Muito difícil,Não sei responder,Discordo totalmente
+1088,Difícil,Muito difícil,Discordo totalmente,Concordo parcialmente
+1089,Muito fácil,Muito fácil,Discordo parcialmente,Concordo totalmente
+1090,Difícil,Fácil,Discordo,Concordo parcialmente
+1091,Muito fácil,Médio,Concordo,Não se aplica
+1092,Difícil,Muito difícil,Concordo parcialmente,Discordo totalmente
+1093,Muito fácil,Fácil,Discordo parcialmente,Concordo totalmente
+1094,Médio,Muito fácil,Discordo,Concordo
+1095,Médio,Fácil,Não se aplica,Discordo parcialmente
+1096,Resposta anulada,Fácil,Não se aplica,Não se aplica
+1097,Muito difícil,Resposta anulada,Concordo,Concordo
+1098,Médio,Muito difícil,Concordo parcialmente,Não sei responder
+1099,Fácil,Fácil,Não se aplica,Concordo totalmente
+1100,Fácil,Fácil,Concordo totalmente,Discordo parcialmente
+1101,Muito difícil,Resposta anulada,Concordo totalmente,Concordo
+1102,Difícil,Muito difícil,Concordo,Discordo totalmente
+1103,Fácil,Difícil,Concordo parcialmente,Discordo totalmente
+1104,Fácil,Médio,Não se aplica,Concordo parcialmente
+1105,Muito difícil,Muito difícil,Não sei responder,Discordo
+1106,Fácil,Difícil,Discordo parcialmente,Concordo
+1107,Muito difícil,Difícil,Discordo totalmente,Concordo
+1108,Muito fácil,Difícil,Não se aplica,Não sei responder
+1109,Resposta anulada,Muito fácil,Não se aplica,Não se aplica
+1110,Muito fácil,Médio,Discordo,Não se aplica
+1111,Fácil,Muito difícil,Concordo totalmente,Não sei responder
+1112,Fácil,Muito difícil,Concordo,Concordo totalmente
+1113,Muito difícil,Fácil,Discordo,Concordo parcialmente
+1114,Muito fácil,Muito fácil,Concordo parcialmente,Não se aplica
+1115,Fácil,Muito fácil,Discordo,Concordo
+1116,Muito difícil,Difícil,Concordo,Não sei responder
+1117,Muito fácil,Difícil,Discordo,Concordo parcialmente
+1118,Muito fácil,Fácil,Discordo parcialmente,Concordo
+1119,Fácil,Resposta anulada,Discordo parcialmente,Concordo parcialmente
+1120,Médio,Muito fácil,Concordo parcialmente,Concordo
+1121,Resposta anulada,Resposta anulada,Não sei responder,Discordo totalmente
+1122,Muito fácil,Fácil,Concordo parcialmente,Não se aplica
+1123,Muito fácil,Muito difícil,Concordo totalmente,Discordo parcialmente
+1124,Difícil,Resposta anulada,Concordo,Concordo parcialmente
+1125,Médio,Muito difícil,Discordo parcialmente,Não sei responder
+1126,Fácil,Fácil,Discordo,Não se aplica
+1127,Fácil,Médio,Não se aplica,Concordo totalmente
+1128,Fácil,Fácil,Concordo,Discordo
+1129,Muito fácil,Fácil,Concordo totalmente,Não se aplica
+1130,Médio,Resposta anulada,Discordo parcialmente,Concordo totalmente
+1131,Resposta anulada,Muito difícil,Não sei responder,Não sei responder
+1132,Muito fácil,Difícil,Concordo,Não se aplica
+1133,Muito difícil,Difícil,Concordo,Discordo
+1134,Muito fácil,Fácil,Discordo,Não se aplica
+1135,Muito difícil,Muito difícil,Não se aplica,Não sei responder
+1136,Fácil,Difícil,Não sei responder,Concordo totalmente
+1137,Fácil,Fácil,Não sei responder,Concordo parcialmente
+1138,Fácil,Médio,Não sei responder,Discordo
+1139,Difícil,Muito difícil,Não se aplica,Concordo totalmente
+1140,Resposta anulada,Resposta anulada,Concordo totalmente,Discordo
+1141,Médio,Muito difícil,Concordo,Discordo totalmente
+1142,Muito fácil,Médio,Discordo totalmente,Não sei responder
+1143,Difícil,Resposta anulada,Concordo parcialmente,Concordo
+1144,Médio,Muito difícil,Não sei responder,Concordo parcialmente
+1145,Muito fácil,Difícil,Concordo parcialmente,Discordo
+1146,Muito difícil,Fácil,Concordo,Concordo
+1147,Muito fácil,Resposta anulada,Concordo parcialmente,Discordo
+1148,Muito difícil,Fácil,Não sei responder,Não sei responder
+1149,Fácil,Médio,Não se aplica,Não sei responder
+1150,Fácil,Muito fácil,Discordo parcialmente,Discordo totalmente
+1151,Muito fácil,Médio,Concordo parcialmente,Não sei responder
+1152,Médio,Muito difícil,Concordo totalmente,Discordo parcialmente
+1153,Fácil,Médio,Concordo totalmente,Não se aplica
+1154,Fácil,Muito difícil,Discordo,Concordo parcialmente
+1155,Muito difícil,Difícil,Não sei responder,Concordo totalmente
+1156,Médio,Muito fácil,Concordo totalmente,Não sei responder
+1157,Médio,Fácil,Discordo,Concordo totalmente
+1158,Muito fácil,Resposta anulada,Concordo,Concordo parcialmente
+1159,Resposta anulada,Difícil,Concordo,Concordo totalmente
+1160,Muito difícil,Difícil,Não sei responder,Concordo parcialmente
+1161,Fácil,Difícil,Discordo parcialmente,Não se aplica
+1162,Muito fácil,Difícil,Discordo parcialmente,Concordo parcialmente
+1163,Muito fácil,Difícil,Concordo totalmente,Discordo totalmente
+1164,Resposta anulada,Médio,Discordo parcialmente,Concordo parcialmente
+1165,Muito difícil,Médio,Concordo totalmente,Concordo parcialmente
+1166,Fácil,Difícil,Concordo parcialmente,Discordo
+1167,Fácil,Muito fácil,Discordo,Discordo parcialmente
+1168,Fácil,Muito difícil,Concordo parcialmente,Discordo parcialmente
+1169,Difícil,Fácil,Discordo totalmente,Não se aplica
+1170,Difícil,Muito fácil,Concordo parcialmente,Concordo
+1171,Médio,Fácil,Concordo parcialmente,Concordo totalmente
+1172,Fácil,Difícil,Não se aplica,Concordo
+1173,Médio,Resposta anulada,Discordo parcialmente,Concordo
+1174,Muito fácil,Muito fácil,Não se aplica,Concordo parcialmente
+1175,Difícil,Muito difícil,Concordo,Não sei responder
+1176,Fácil,Médio,Não sei responder,Concordo totalmente
+1177,Muito difícil,Muito fácil,Concordo parcialmente,Não se aplica
+1178,Difícil,Fácil,Discordo parcialmente,Discordo totalmente
+1179,Muito fácil,Muito difícil,Discordo parcialmente,Não se aplica
+1180,Difícil,Resposta anulada,Concordo parcialmente,Discordo parcialmente
+1181,Fácil,Muito difícil,Discordo parcialmente,Concordo parcialmente
+1182,Médio,Resposta anulada,Concordo,Não se aplica
+1183,Muito difícil,Difícil,Não se aplica,Discordo parcialmente
+1184,Difícil,Resposta anulada,Concordo totalmente,Concordo
+1185,Muito fácil,Médio,Não sei responder,Concordo totalmente
+1186,Muito difícil,Fácil,Concordo parcialmente,Concordo totalmente
+1187,Muito fácil,Muito difícil,Concordo,Concordo totalmente
+1188,Muito fácil,Difícil,Concordo totalmente,Concordo parcialmente
+1189,Muito fácil,Muito fácil,Discordo totalmente,Não se aplica
+1190,Médio,Muito difícil,Discordo,Concordo totalmente
+1191,Muito fácil,Muito fácil,Concordo totalmente,Discordo parcialmente
+1192,Fácil,Fácil,Concordo,Não se aplica
+1193,Resposta anulada,Difícil,Discordo,Discordo parcialmente
+1194,Médio,Resposta anulada,Concordo parcialmente,Concordo
+1195,Muito fácil,Muito fácil,Concordo parcialmente,Concordo totalmente
+1196,Muito fácil,Fácil,Discordo parcialmente,Não se aplica
+1197,Muito fácil,Fácil,Concordo totalmente,Concordo
+1198,Resposta anulada,Muito difícil,Concordo,Não sei responder
+1199,Muito difícil,Muito fácil,Concordo,Concordo totalmente
+1200,Difícil,Muito fácil,Discordo,Concordo parcialmente
+1201,Muito difícil,Difícil,Não sei responder,Concordo
+1202,Muito difícil,Fácil,Concordo,Discordo parcialmente
+1203,Muito fácil,Resposta anulada,Não sei responder,Não sei responder
+1204,Muito fácil,Muito difícil,Não sei responder,Discordo parcialmente
+1205,Resposta anulada,Muito difícil,Concordo parcialmente,Concordo parcialmente
+1206,Médio,Fácil,Discordo parcialmente,Concordo totalmente
+1207,Fácil,Fácil,Não se aplica,Discordo parcialmente
+1208,Muito fácil,Muito difícil,Não se aplica,Discordo
+1209,Muito fácil,Médio,Discordo parcialmente,Não sei responder
+1210,Muito fácil,Fácil,Concordo,Discordo parcialmente
+1211,Muito fácil,Fácil,Concordo parcialmente,Não sei responder
+1212,Difícil,Muito difícil,Concordo totalmente,Não sei responder
+1213,Resposta anulada,Difícil,Concordo parcialmente,Discordo
+1214,Resposta anulada,Médio,Concordo,Concordo
+1215,Difícil,Muito difícil,Não sei responder,Concordo totalmente
+1216,Médio,Muito difícil,Não se aplica,Discordo totalmente
+1217,Médio,Muito fácil,Discordo,Não se aplica
+1218,Médio,Fácil,Discordo,Concordo
+1219,Fácil,Médio,Não se aplica,Discordo parcialmente
+1220,Difícil,Muito difícil,Discordo parcialmente,Concordo totalmente
+1221,Muito difícil,Médio,Discordo parcialmente,Concordo
+1222,Fácil,Muito fácil,Não se aplica,Discordo totalmente
+1223,Muito difícil,Difícil,Discordo,Não sei responder
+1224,Muito difícil,Fácil,Discordo parcialmente,Concordo parcialmente
+1225,Médio,Muito difícil,Não sei responder,Discordo totalmente
+1226,Fácil,Muito difícil,Discordo parcialmente,Concordo
+1227,Resposta anulada,Médio,Discordo,Discordo parcialmente
+1228,Muito fácil,Muito fácil,Concordo totalmente,Não sei responder
+1229,Muito fácil,Médio,Não se aplica,Concordo parcialmente
+1230,Fácil,Fácil,Concordo,Não sei responder
+1231,Difícil,Fácil,Concordo,Não sei responder
+1232,Muito fácil,Fácil,Não se aplica,Concordo totalmente
+1233,Muito fácil,Fácil,Concordo,Discordo
+1234,Muito difícil,Resposta anulada,Concordo,Discordo
+1235,Muito fácil,Muito difícil,Concordo parcialmente,Discordo parcialmente
+1236,Médio,Difícil,Discordo totalmente,Concordo totalmente
+1237,Médio,Muito fácil,Não sei responder,Concordo totalmente
+1238,Resposta anulada,Fácil,Concordo parcialmente,Discordo parcialmente
+1239,Fácil,Fácil,Concordo parcialmente,Não se aplica
+1240,Fácil,Difícil,Concordo totalmente,Não sei responder
+1241,Difícil,Muito difícil,Discordo,Concordo
+1242,Resposta anulada,Difícil,Concordo parcialmente,Não se aplica
+1243,Difícil,Fácil,Não sei responder,Concordo parcialmente
+1244,Difícil,Fácil,Concordo parcialmente,Concordo totalmente
+1245,Muito fácil,Muito difícil,Não se aplica,Concordo parcialmente
+1246,Médio,Muito difícil,Concordo,Não sei responder
+1247,Muito fácil,Muito fácil,Não sei responder,Discordo parcialmente
+1248,Fácil,Difícil,Concordo parcialmente,Não sei responder
+1249,Muito fácil,Médio,Concordo,Discordo
+1250,Muito difícil,Médio,Concordo parcialmente,Não sei responder
+1251,Muito difícil,Muito difícil,Discordo totalmente,Não sei responder
+1252,Muito fácil,Difícil,Concordo parcialmente,Concordo
+1253,Fácil,Difícil,Discordo,Concordo
+1254,Muito fácil,Médio,Concordo totalmente,Discordo
+1255,Resposta anulada,Muito difícil,Discordo,Discordo
+1256,Fácil,Fácil,Concordo parcialmente,Discordo totalmente
+1257,Muito fácil,Muito difícil,Concordo parcialmente,Concordo
+1258,Muito difícil,Muito fácil,Concordo parcialmente,Não sei responder
+1259,Médio,Muito difícil,Concordo parcialmente,Discordo totalmente
+1260,Médio,Muito fácil,Discordo,Discordo parcialmente
+1261,Muito fácil,Muito fácil,Não sei responder,Não se aplica
+1262,Difícil,Fácil,Discordo parcialmente,Concordo
+1263,Muito fácil,Difícil,Concordo parcialmente,Não sei responder
+1264,Difícil,Resposta anulada,Concordo parcialmente,Concordo totalmente
+1265,Difícil,Muito fácil,Discordo parcialmente,Discordo
+1266,Muito fácil,Difícil,Concordo totalmente,Não se aplica
+1267,Fácil,Muito fácil,Concordo,Concordo parcialmente
+1268,Fácil,Muito difícil,Concordo parcialmente,Concordo
+1269,Muito fácil,Muito difícil,Discordo,Concordo
+1270,Difícil,Resposta anulada,Discordo parcialmente,Discordo
+1271,Médio,Muito difícil,Concordo parcialmente,Concordo totalmente
+1272,Difícil,Muito difícil,Concordo parcialmente,Não sei responder
+1273,Resposta anulada,Médio,Concordo parcialmente,Discordo parcialmente
+1274,Difícil,Muito fácil,Concordo totalmente,Concordo
+1275,Difícil,Fácil,Discordo totalmente,Discordo parcialmente
+1276,Resposta anulada,Médio,Concordo parcialmente,Não se aplica
+1277,Fácil,Fácil,Discordo totalmente,Não sei responder
+1278,Muito fácil,Resposta anulada,Não se aplica,Não se aplica
+1279,Muito fácil,Difícil,Concordo,Discordo parcialmente
+1280,Médio,Fácil,Concordo,Não sei responder
+1281,Médio,Muito fácil,Concordo,Não se aplica
+1282,Muito fácil,Fácil,Não sei responder,Concordo
+1283,Fácil,Resposta anulada,Concordo totalmente,Concordo totalmente
+1284,Resposta anulada,Médio,Concordo,Concordo parcialmente
+1285,Médio,Fácil,Não sei responder,Discordo parcialmente
+1286,Difícil,Muito difícil,Não se aplica,Concordo parcialmente
+1287,Muito fácil,Muito fácil,Concordo totalmente,Não se aplica
+1288,Muito fácil,Muito fácil,Concordo,Não se aplica
+1289,Fácil,Difícil,Não se aplica,Concordo parcialmente
+1290,Muito difícil,Resposta anulada,Não se aplica,Não se aplica
+1291,Difícil,Resposta anulada,Concordo parcialmente,Não sei responder
+1292,Fácil,Resposta anulada,Concordo,Concordo
+1293,Muito difícil,Médio,Não se aplica,Discordo totalmente
+1294,Difícil,Resposta anulada,Discordo parcialmente,Concordo
+1295,Muito fácil,Difícil,Discordo,Discordo totalmente
+1296,Difícil,Muito fácil,Concordo parcialmente,Discordo parcialmente
+1297,Muito difícil,Fácil,Discordo,Discordo totalmente
+1298,Difícil,Muito difícil,Não se aplica,Não sei responder
+1299,Difícil,Muito fácil,Concordo parcialmente,Concordo totalmente
+1300,Muito fácil,Médio,Concordo totalmente,Concordo
+1301,Médio,Muito fácil,Discordo totalmente,Concordo totalmente
+1302,Médio,Resposta anulada,Não sei responder,Não sei responder
+1303,Difícil,Muito fácil,Discordo parcialmente,Não se aplica
+1304,Muito fácil,Muito fácil,Discordo,Não sei responder
+1305,Fácil,Médio,Concordo totalmente,Discordo parcialmente
+1306,Fácil,Difícil,Concordo totalmente,Discordo totalmente
+1307,Médio,Resposta anulada,Discordo parcialmente,Discordo
+1308,Médio,Resposta anulada,Concordo,Concordo parcialmente
+1309,Muito fácil,Médio,Concordo totalmente,Não se aplica
+1310,Muito fácil,Médio,Discordo parcialmente,Discordo totalmente
+1311,Muito fácil,Difícil,Não sei responder,Concordo parcialmente
+1312,Difícil,Muito difícil,Não sei responder,Concordo
+1313,Difícil,Muito fácil,Concordo,Não se aplica
+1314,Muito fácil,Fácil,Não sei responder,Não se aplica
+1315,Médio,Resposta anulada,Concordo,Concordo totalmente
+1316,Médio,Fácil,Não sei responder,Discordo
+1317,Muito difícil,Fácil,Discordo parcialmente,Concordo totalmente
+1318,Difícil,Resposta anulada,Concordo,Não se aplica
+1319,Muito difícil,Resposta anulada,Concordo totalmente,Concordo totalmente
+1320,Fácil,Muito difícil,Não sei responder,Não se aplica
+1321,Fácil,Muito fácil,Não sei responder,Não se aplica
+1322,Muito fácil,Médio,Não sei responder,Não se aplica
+1323,Médio,Muito difícil,Não se aplica,Discordo parcialmente
+1324,Médio,Muito fácil,Concordo parcialmente,Não se aplica
+1325,Médio,Resposta anulada,Concordo totalmente,Não sei responder
+1326,Resposta anulada,Muito fácil,Concordo parcialmente,Discordo parcialmente
+1327,Muito fácil,Médio,Concordo parcialmente,Não se aplica
+1328,Muito fácil,Muito fácil,Não se aplica,Discordo
+1329,Difícil,Muito difícil,Não se aplica,Discordo totalmente
+1330,Difícil,Resposta anulada,Concordo parcialmente,Discordo totalmente
+1331,Muito difícil,Médio,Concordo totalmente,Discordo totalmente
+1332,Difícil,Resposta anulada,Discordo totalmente,Concordo parcialmente
+1333,Resposta anulada,Médio,Concordo totalmente,Não se aplica
+1334,Resposta anulada,Médio,Discordo parcialmente,Discordo
+1335,Muito fácil,Fácil,Não sei responder,Discordo parcialmente
+1336,Muito difícil,Médio,Concordo parcialmente,Não se aplica
+1337,Difícil,Fácil,Discordo parcialmente,Não se aplica
+1338,Fácil,Difícil,Discordo,Não sei responder
+1339,Difícil,Fácil,Discordo totalmente,Discordo
+1340,Muito fácil,Médio,Discordo,Concordo
+1341,Difícil,Resposta anulada,Concordo,Concordo totalmente
+1342,Médio,Muito fácil,Não sei responder,Concordo parcialmente
+1343,Muito fácil,Difícil,Discordo,Concordo totalmente
+1344,Fácil,Fácil,Não se aplica,Concordo
+1345,Resposta anulada,Difícil,Discordo totalmente,Concordo
+1346,Difícil,Muito fácil,Concordo parcialmente,Não se aplica
+1347,Difícil,Fácil,Concordo parcialmente,Não sei responder
+1348,Muito fácil,Fácil,Concordo totalmente,Discordo totalmente
+1349,Muito difícil,Fácil,Concordo totalmente,Concordo
+1350,Muito fácil,Muito difícil,Concordo parcialmente,Concordo totalmente
+1351,Difícil,Muito fácil,Não sei responder,Concordo totalmente
+1352,Muito difícil,Muito fácil,Concordo parcialmente,Concordo
+1353,Médio,Muito difícil,Discordo totalmente,Não se aplica
+1354,Resposta anulada,Muito difícil,Concordo,Concordo
+1355,Resposta anulada,Difícil,Concordo parcialmente,Concordo
+1356,Médio,Resposta anulada,Concordo parcialmente,Discordo totalmente
+1357,Muito fácil,Muito difícil,Concordo totalmente,Não sei responder
+1358,Muito difícil,Fácil,Concordo,Concordo parcialmente
+1359,Muito difícil,Médio,Não se aplica,Concordo
+1360,Muito difícil,Muito fácil,Concordo totalmente,Concordo parcialmente
+1361,Resposta anulada,Muito fácil,Discordo parcialmente,Concordo
+1362,Resposta anulada,Difícil,Discordo parcialmente,Não se aplica
+1363,Difícil,Fácil,Concordo totalmente,Concordo parcialmente
+1364,Resposta anulada,Difícil,Concordo parcialmente,Discordo parcialmente
+1365,Fácil,Médio,Concordo,Discordo totalmente
+1366,Muito fácil,Muito difícil,Não se aplica,Concordo
+1367,Médio,Muito difícil,Não se aplica,Discordo
+1368,Fácil,Muito fácil,Concordo totalmente,Concordo
+1369,Difícil,Fácil,Concordo parcialmente,Não se aplica
+1370,Muito fácil,Muito fácil,Não sei responder,Concordo totalmente
+1371,Fácil,Muito fácil,Concordo parcialmente,Concordo totalmente
+1372,Fácil,Difícil,Não se aplica,Discordo totalmente
+1373,Médio,Fácil,Não se aplica,Concordo
+1374,Muito fácil,Médio,Não se aplica,Concordo totalmente
+1375,Médio,Muito difícil,Discordo,Não se aplica
+1376,Muito fácil,Difícil,Concordo totalmente,Não sei responder
+1377,Difícil,Resposta anulada,Discordo,Discordo parcialmente
+1378,Médio,Muito fácil,Não sei responder,Não se aplica
+1379,Fácil,Médio,Não sei responder,Não se aplica
+1380,Fácil,Muito difícil,Concordo,Não sei responder
+1381,Muito fácil,Resposta anulada,Concordo totalmente,Concordo
+1382,Fácil,Médio,Discordo totalmente,Não sei responder
+1383,Fácil,Muito fácil,Discordo,Concordo parcialmente
+1384,Fácil,Muito difícil,Concordo parcialmente,Concordo totalmente
+1385,Muito fácil,Muito difícil,Não sei responder,Não sei responder
+1386,Resposta anulada,Difícil,Concordo,Concordo parcialmente
+1387,Difícil,Resposta anulada,Não se aplica,Concordo
+1388,Fácil,Fácil,Discordo,Não sei responder
+1389,Difícil,Muito fácil,Concordo totalmente,Concordo parcialmente
+1390,Fácil,Difícil,Não sei responder,Concordo
+1391,Muito difícil,Difícil,Não se aplica,Concordo totalmente
+1392,Fácil,Muito difícil,Concordo,Não se aplica
+1393,Fácil,Muito difícil,Discordo totalmente,Concordo
+1394,Difícil,Muito difícil,Discordo totalmente,Concordo
+1395,Médio,Muito fácil,Discordo parcialmente,Não se aplica
+1396,Muito fácil,Difícil,Concordo,Não sei responder
+1397,Fácil,Fácil,Não sei responder,Concordo totalmente
+1398,Muito difícil,Muito fácil,Não se aplica,Concordo parcialmente
+1399,Muito fácil,Resposta anulada,Discordo parcialmente,Concordo parcialmente
+1400,Fácil,Difícil,Concordo totalmente,Discordo
+1401,Fácil,Muito fácil,Não sei responder,Concordo parcialmente
+1402,Médio,Muito fácil,Discordo parcialmente,Discordo
+1403,Difícil,Fácil,Discordo totalmente,Concordo parcialmente
+1404,Resposta anulada,Fácil,Concordo totalmente,Concordo parcialmente
+1405,Muito fácil,Difícil,Concordo totalmente,Discordo parcialmente
+1406,Muito difícil,Resposta anulada,Concordo,Concordo totalmente
+1407,Muito fácil,Resposta anulada,Concordo,Concordo totalmente
+1408,Muito difícil,Muito fácil,Concordo parcialmente,Concordo totalmente
+1409,Difícil,Muito fácil,Discordo,Discordo totalmente
+1410,Muito difícil,Médio,Concordo,Discordo
+1411,Resposta anulada,Fácil,Discordo parcialmente,Discordo
+1412,Difícil,Resposta anulada,Concordo totalmente,Não se aplica
+1413,Fácil,Resposta anulada,Concordo parcialmente,Concordo
+1414,Muito difícil,Médio,Discordo totalmente,Discordo parcialmente
+1415,Muito difícil,Fácil,Discordo parcialmente,Concordo
+1416,Fácil,Fácil,Não sei responder,Não se aplica
+1417,Resposta anulada,Fácil,Concordo totalmente,Concordo totalmente
+1418,Fácil,Resposta anulada,Concordo parcialmente,Concordo totalmente
+1419,Médio,Fácil,Não sei responder,Discordo totalmente
+1420,Médio,Resposta anulada,Concordo totalmente,Concordo parcialmente
+1421,Fácil,Difícil,Discordo parcialmente,Não sei responder
+1422,Resposta anulada,Muito difícil,Discordo parcialmente,Concordo totalmente
+1423,Fácil,Muito fácil,Discordo parcialmente,Discordo
+1424,Fácil,Muito fácil,Não se aplica,Concordo totalmente
+1425,Difícil,Fácil,Não sei responder,Não se aplica
+1426,Difícil,Resposta anulada,Discordo parcialmente,Discordo totalmente
+1427,Muito fácil,Muito difícil,Não se aplica,Concordo totalmente
+1428,Difícil,Fácil,Discordo,Não sei responder
+1429,Fácil,Muito fácil,Discordo totalmente,Concordo
+1430,Difícil,Fácil,Não se aplica,Concordo totalmente
+1431,Difícil,Muito difícil,Discordo totalmente,Concordo totalmente
+1432,Muito fácil,Difícil,Discordo totalmente,Discordo parcialmente
+1433,Médio,Resposta anulada,Discordo parcialmente,Não sei responder
+1434,Muito fácil,Difícil,Discordo,Concordo
+1435,Médio,Fácil,Não se aplica,Não sei responder
+1436,Difícil,Muito difícil,Não sei responder,Concordo parcialmente
+1437,Fácil,Fácil,Não sei responder,Concordo
+1438,Médio,Resposta anulada,Discordo,Concordo parcialmente
+1439,Muito fácil,Muito fácil,Não se aplica,Não sei responder
+1440,Muito fácil,Médio,Não sei responder,Discordo
+1441,Fácil,Muito difícil,Concordo totalmente,Não se aplica
+1442,Muito difícil,Difícil,Não sei responder,Discordo totalmente
+1443,Médio,Muito fácil,Não sei responder,Discordo totalmente
+1444,Muito difícil,Resposta anulada,Concordo parcialmente,Concordo
+1445,Muito fácil,Difícil,Discordo totalmente,Concordo parcialmente
+1446,Difícil,Fácil,Não se aplica,Não sei responder
+1447,Médio,Muito difícil,Discordo parcialmente,Não se aplica
+1448,Fácil,Muito fácil,Concordo parcialmente,Discordo
+1449,Médio,Muito difícil,Discordo parcialmente,Concordo totalmente
+1450,Muito fácil,Muito fácil,Não sei responder,Concordo parcialmente
+1451,Muito difícil,Muito fácil,Concordo,Discordo totalmente
+1452,Resposta anulada,Médio,Não sei responder,Concordo totalmente
+1453,Médio,Muito fácil,Discordo totalmente,Concordo
+1454,Muito difícil,Fácil,Concordo parcialmente,Discordo parcialmente
+1455,Fácil,Fácil,Discordo totalmente,Concordo totalmente
+1456,Muito difícil,Muito fácil,Concordo totalmente,Concordo
+1457,Muito fácil,Muito difícil,Concordo totalmente,Concordo
+1458,Muito fácil,Difícil,Não se aplica,Concordo
+1459,Difícil,Muito difícil,Discordo,Concordo totalmente
+1460,Médio,Fácil,Discordo totalmente,Concordo parcialmente
+1461,Médio,Muito fácil,Concordo totalmente,Não se aplica
+1462,Difícil,Fácil,Não se aplica,Discordo parcialmente
+1463,Muito fácil,Fácil,Não sei responder,Concordo parcialmente
+1464,Difícil,Resposta anulada,Discordo parcialmente,Concordo parcialmente
+1465,Difícil,Muito fácil,Concordo,Discordo parcialmente
+1466,Fácil,Fácil,Concordo totalmente,Discordo totalmente
+1467,Médio,Muito fácil,Não sei responder,Discordo parcialmente
+1468,Resposta anulada,Muito difícil,Não se aplica,Não se aplica
+1469,Muito fácil,Médio,Não se aplica,Discordo
+1470,Resposta anulada,Difícil,Discordo parcialmente,Concordo
+1471,Médio,Fácil,Não sei responder,Concordo
+1472,Resposta anulada,Fácil,Não sei responder,Não sei responder
+1473,Muito fácil,Médio,Discordo,Não sei responder
+1474,Resposta anulada,Fácil,Discordo,Não se aplica
+1475,Resposta anulada,Muito fácil,Concordo totalmente,Concordo totalmente
+1476,Médio,Fácil,Discordo,Não sei responder
+1477,Difícil,Resposta anulada,Não sei responder,Concordo totalmente
+1478,Médio,Muito fácil,Concordo totalmente,Concordo parcialmente
+1479,Difícil,Muito fácil,Concordo totalmente,Não se aplica
+1480,Médio,Muito difícil,Não sei responder,Concordo
+1481,Resposta anulada,Médio,Não sei responder,Concordo
+1482,Muito fácil,Fácil,Discordo,Concordo totalmente
+1483,Médio,Fácil,Discordo totalmente,Concordo
+1484,Médio,Muito difícil,Não sei responder,Discordo parcialmente
+1485,Muito fácil,Muito difícil,Não sei responder,Concordo totalmente
+1486,Difícil,Fácil,Concordo totalmente,Discordo totalmente
+1487,Difícil,Muito fácil,Não sei responder,Concordo
+1488,Resposta anulada,Muito fácil,Não sei responder,Não sei responder
+1489,Fácil,Fácil,Discordo,Concordo totalmente
+1490,Muito difícil,Médio,Concordo totalmente,Discordo
+1491,Médio,Muito fácil,Concordo,Discordo
+1492,Resposta anulada,Médio,Não se aplica,Concordo
+1493,Médio,Muito difícil,Não se aplica,Não sei responder
+1494,Muito fácil,Médio,Concordo totalmente,Não sei responder
+1495,Resposta anulada,Médio,Concordo,Não se aplica
+1496,Fácil,Difícil,Não sei responder,Não se aplica
+1497,Muito fácil,Difícil,Não sei responder,Concordo
+1498,Muito fácil,Muito difícil,Não se aplica,Discordo parcialmente
+1499,Fácil,Muito fácil,Não se aplica,Concordo parcialmente
+1500,Muito fácil,Muito fácil,Não se aplica,Concordo
+1501,Resposta anulada,Difícil,Concordo totalmente,Concordo parcialmente
+1502,Muito fácil,Muito fácil,Não sei responder,Concordo
+1503,Difícil,Muito fácil,Concordo,Discordo
+1504,Fácil,Difícil,Discordo totalmente,Concordo
+1505,Resposta anulada,Médio,Concordo totalmente,Concordo parcialmente
+1506,Muito difícil,Muito fácil,Concordo totalmente,Não se aplica
+1507,Resposta anulada,Difícil,Concordo,Não se aplica
+1508,Difícil,Muito difícil,Discordo,Não sei responder
+1509,Muito fácil,Fácil,Discordo,Concordo
+1510,Muito fácil,Médio,Não se aplica,Não sei responder
+1511,Muito difícil,Difícil,Concordo totalmente,Discordo
+1512,Difícil,Fácil,Concordo totalmente,Não se aplica
+1513,Fácil,Fácil,Não sei responder,Discordo
+1514,Resposta anulada,Muito difícil,Concordo parcialmente,Discordo parcialmente
+1515,Muito fácil,Médio,Concordo parcialmente,Discordo totalmente
+1516,Muito fácil,Fácil,Não se aplica,Concordo
+1517,Muito fácil,Difícil,Não sei responder,Discordo totalmente
+1518,Fácil,Difícil,Não sei responder,Discordo parcialmente
+1519,Fácil,Fácil,Não se aplica,Não sei responder
+1520,Fácil,Resposta anulada,Discordo parcialmente,Concordo
+1521,Muito fácil,Resposta anulada,Concordo parcialmente,Concordo
+1522,Difícil,Muito fácil,Não sei responder,Não se aplica
+1523,Resposta anulada,Muito difícil,Concordo parcialmente,Concordo
+1524,Muito fácil,Muito difícil,Discordo totalmente,Discordo
+1525,Difícil,Resposta anulada,Discordo,Concordo parcialmente
+1526,Fácil,Resposta anulada,Concordo totalmente,Concordo
+1527,Fácil,Muito fácil,Discordo,Discordo totalmente
+1528,Médio,Muito fácil,Não se aplica,Concordo
+1529,Fácil,Fácil,Não se aplica,Discordo totalmente
+1530,Difícil,Muito fácil,Concordo totalmente,Não sei responder
+1531,Médio,Fácil,Não sei responder,Não se aplica
+1532,Médio,Muito difícil,Discordo totalmente,Concordo totalmente
+1533,Resposta anulada,Difícil,Discordo totalmente,Discordo
+1534,Difícil,Muito difícil,Não sei responder,Discordo totalmente
+1535,Médio,Resposta anulada,Não sei responder,Concordo
+1536,Difícil,Fácil,Concordo totalmente,Discordo parcialmente
+1537,Difícil,Resposta anulada,Discordo,Discordo totalmente
+1538,Muito fácil,Difícil,Não se aplica,Concordo totalmente
+1539,Muito fácil,Muito difícil,Concordo totalmente,Discordo totalmente
+1540,Fácil,Difícil,Não se aplica,Não sei responder
+1541,Fácil,Difícil,Não se aplica,Concordo totalmente
+1542,Difícil,Resposta anulada,Concordo totalmente,Concordo parcialmente
+1543,Fácil,Resposta anulada,Concordo,Concordo totalmente
+1544,Fácil,Difícil,Não sei responder,Concordo parcialmente
+1545,Muito difícil,Resposta anulada,Concordo parcialmente,Concordo totalmente
+1546,Fácil,Muito fácil,Discordo totalmente,Concordo totalmente
+1547,Médio,Muito fácil,Concordo totalmente,Discordo parcialmente
+1548,Muito fácil,Muito difícil,Discordo,Discordo totalmente
+1549,Fácil,Muito difícil,Concordo parcialmente,Discordo
+1550,Difícil,Resposta anulada,Concordo totalmente,Não sei responder
+1551,Muito difícil,Resposta anulada,Discordo,Discordo
+1552,Médio,Resposta anulada,Não se aplica,Concordo totalmente
+1553,Difícil,Fácil,Discordo totalmente,Não sei responder
+1554,Resposta anulada,Muito difícil,Não se aplica,Concordo
+1555,Muito difícil,Médio,Não se aplica,Concordo totalmente
+1556,Muito fácil,Fácil,Não sei responder,Concordo totalmente
+1557,Médio,Muito fácil,Não se aplica,Discordo
+1558,Muito difícil,Médio,Não se aplica,Discordo parcialmente
+1559,Muito difícil,Muito fácil,Discordo totalmente,Discordo parcialmente
+1560,Resposta anulada,Difícil,Concordo,Não sei responder
+1561,Muito difícil,Médio,Não sei responder,Concordo
+1562,Médio,Muito difícil,Não sei responder,Concordo totalmente
+1563,Muito difícil,Fácil,Discordo totalmente,Concordo parcialmente
+1564,Fácil,Muito difícil,Discordo,Concordo totalmente
+1565,Muito fácil,Médio,Discordo,Concordo totalmente
+1566,Muito fácil,Muito difícil,Discordo parcialmente,Discordo totalmente
+1567,Médio,Resposta anulada,Não sei responder,Discordo totalmente
+1568,Muito fácil,Muito fácil,Concordo,Não sei responder
+1569,Resposta anulada,Médio,Não sei responder,Discordo totalmente
+1570,Difícil,Resposta anulada,Discordo parcialmente,Concordo totalmente
+1571,Muito difícil,Fácil,Concordo,Concordo totalmente
+1572,Resposta anulada,Difícil,Discordo,Concordo parcialmente
+1573,Muito difícil,Resposta anulada,Concordo,Concordo parcialmente
+1574,Muito fácil,Fácil,Não se aplica,Concordo parcialmente
+1575,Difícil,Muito fácil,Não sei responder,Não sei responder
+1576,Resposta anulada,Médio,Não sei responder,Não sei responder
+1577,Muito fácil,Fácil,Discordo totalmente,Concordo totalmente
+1578,Médio,Muito fácil,Não sei responder,Concordo
+1579,Fácil,Difícil,Discordo totalmente,Concordo totalmente
+1580,Muito fácil,Muito difícil,Concordo parcialmente,Discordo
+1581,Resposta anulada,Médio,Concordo totalmente,Concordo
+1582,Resposta anulada,Difícil,Concordo totalmente,Não sei responder
+1583,Muito difícil,Médio,Discordo parcialmente,Concordo totalmente
+1584,Muito fácil,Muito fácil,Discordo totalmente,Concordo parcialmente
+1585,Muito fácil,Muito fácil,Não se aplica,Concordo totalmente
+1586,Muito fácil,Médio,Não se aplica,Concordo
+1587,Fácil,Muito fácil,Não sei responder,Concordo
+1588,Resposta anulada,Difícil,Concordo parcialmente,Concordo totalmente
+1589,Fácil,Muito difícil,Concordo parcialmente,Não sei responder
+1590,Resposta anulada,Muito difícil,Concordo totalmente,Não se aplica
+1591,Fácil,Difícil,Discordo,Concordo totalmente
+1592,Difícil,Muito fácil,Discordo totalmente,Concordo totalmente
+1593,Difícil,Fácil,Discordo totalmente,Concordo totalmente
+1594,Fácil,Muito fácil,Não sei responder,Concordo totalmente
+1595,Muito difícil,Muito fácil,Discordo parcialmente,Concordo totalmente
+1596,Muito fácil,Muito difícil,Concordo totalmente,Não se aplica
+1597,Muito fácil,Fácil,Concordo totalmente,Não sei responder
+1598,Resposta anulada,Fácil,Concordo,Concordo totalmente
+1599,Resposta anulada,Muito difícil,Concordo totalmente,Concordo
+1600,Fácil,Muito difícil,Não se aplica,Não sei responder
+1601,Difícil,Resposta anulada,Não se aplica,Concordo totalmente
+1602,Muito fácil,Muito fácil,Discordo totalmente,Concordo totalmente
+1603,Muito fácil,Fácil,Discordo totalmente,Concordo
+1604,Muito fácil,Difícil,Concordo parcialmente,Discordo totalmente
+1605,Muito fácil,Fácil,Concordo totalmente,Discordo parcialmente
+1606,Muito fácil,Médio,Concordo,Discordo totalmente
+1607,Muito difícil,Médio,Não sei responder,Concordo totalmente
+1608,Difícil,Fácil,Discordo parcialmente,Concordo totalmente
+1609,Muito fácil,Fácil,Não se aplica,Discordo
+1610,Muito fácil,Muito difícil,Discordo,Concordo totalmente
+1611,Difícil,Fácil,Não sei responder,Concordo
+1612,Fácil,Muito fácil,Discordo parcialmente,Concordo
+1613,Muito fácil,Resposta anulada,Não se aplica,Não sei responder
+1614,Muito difícil,Fácil,Concordo,Não se aplica
+1615,Muito fácil,Difícil,Não se aplica,Discordo parcialmente
+1616,Fácil,Muito difícil,Não se aplica,Concordo
+1617,Fácil,Médio,Não sei responder,Discordo totalmente
+1618,Resposta anulada,Muito fácil,Concordo,Concordo
+1619,Difícil,Fácil,Não se aplica,Concordo parcialmente
+1620,Resposta anulada,Muito difícil,Concordo,Concordo parcialmente
+1621,Fácil,Muito difícil,Concordo parcialmente,Discordo totalmente
+1622,Médio,Resposta anulada,Discordo,Concordo
+1623,Muito fácil,Muito difícil,Discordo parcialmente,Concordo
+1624,Difícil,Fácil,Não sei responder,Discordo parcialmente
+1625,Difícil,Fácil,Concordo parcialmente,Discordo totalmente
+1626,Resposta anulada,Resposta anulada,Não informado,Não informado
+1627,Muito fácil,Muito fácil,Discordo totalmente,Concordo
+1628,Muito fácil,Resposta anulada,Concordo parcialmente,Discordo totalmente
+1629,Fácil,Médio,Não informado,Não informado
+1630,Muito fácil,Muito difícil,Concordo parcialmente,Discordo totalmente
+1631,Médio,Resposta anulada,Discordo totalmente,Concordo parcialmente
+1632,Difícil,Resposta anulada,Discordo totalmente,Discordo parcialmente
+1633,Muito difícil,Muito fácil,Discordo totalmente,Concordo parcialmente
+1634,Resposta anulada,Difícil,Concordo totalmente,Discordo
+1635,Difícil,Muito difícil,Discordo totalmente,Não sei responder
+1636,Difícil,Fácil,Discordo,Concordo
+1637,Fácil,Muito difícil,Concordo,Discordo parcialmente
+1638,Fácil,Muito difícil,Concordo,Discordo
+1639,Muito fácil,Muito difícil,Discordo totalmente,Discordo parcialmente
+1640,Fácil,Muito fácil,Discordo totalmente,Discordo parcialmente
+1641,Difícil,Resposta anulada,Discordo,Concordo
+1642,Muito difícil,Fácil,Discordo parcialmente,Discordo totalmente
+1643,Resposta anulada,Difícil,Discordo parcialmente,Concordo parcialmente
+1644,Muito fácil,Fácil,Concordo,Discordo totalmente
+1645,Resposta anulada,Muito fácil,Discordo,Discordo totalmente
+1646,Fácil,Fácil,Não sei responder,Discordo totalmente
+1647,Muito fácil,Médio,Discordo totalmente,Concordo totalmente
+1648,Resposta anulada,Muito fácil,Concordo parcialmente,Concordo parcialmente
+1649,Muito fácil,Muito difícil,Discordo parcialmente,Concordo totalmente
+1650,Difícil,Fácil,Discordo,Concordo totalmente
+1651,Fácil,Muito fácil,Concordo totalmente,Discordo
+1652,Fácil,Muito difícil,Concordo,Discordo totalmente
+1653,Muito difícil,Médio,Concordo,Não sei responder
+1654,Resposta anulada,Difícil,Discordo parcialmente,Discordo
+1655,Muito difícil,Médio,Não se aplica,Concordo parcialmente
+1656,Muito difícil,Médio,Não se aplica,Discordo
+1657,Muito difícil,Muito fácil,Discordo parcialmente,Discordo
+1658,Fácil,Muito fácil,Discordo parcialmente,Concordo totalmente
+1659,Fácil,Muito fácil,Não sei responder,Discordo totalmente
+1660,Resposta anulada,Médio,Concordo parcialmente,Concordo totalmente
+1661,Muito fácil,Fácil,Concordo totalmente,Discordo
+1662,Muito difícil,Resposta anulada,Discordo parcialmente,Concordo
+1663,Resposta anulada,Difícil,Discordo,Discordo totalmente
+1664,Resposta anulada,Muito difícil,Discordo,Discordo totalmente
+1665,Difícil,Difícil,Discordo,Não informado
+1666,Difícil,Difícil,Não informado,Não informado
+1667,Muito difícil,Resposta anulada,Discordo,Discordo totalmente
+1668,Difícil,Muito fácil,Discordo,Concordo totalmente
+1669,Médio,Resposta anulada,Discordo,Concordo totalmente
+1670,Muito fácil,Muito fácil,Discordo totalmente,Não sei responder
+1671,Médio,Resposta anulada,Discordo parcialmente,Não se aplica
+1672,Muito difícil,Médio,Discordo,Concordo totalmente
+1673,Muito fácil,Resposta anulada,Discordo totalmente,Concordo
+1674,Difícil,Fácil,Discordo parcialmente,Não sei responder
+1675,Muito fácil,Fácil,Concordo parcialmente,Discordo totalmente
+1676,Difícil,Resposta anulada,Concordo parcialmente,Discordo
+1677,Muito fácil,Muito difícil,Discordo,Concordo parcialmente
+1678,Resposta anulada,Médio,Concordo totalmente,Não sei responder
+1679,Resposta anulada,Difícil,Concordo,Discordo
+1680,Resposta anulada,Muito difícil,Discordo parcialmente,Discordo totalmente
+1681,Médio,Médio,Não informado,Não informado
+1682,Médio,Difícil,Não informado,Não informado
+1683,Muito difícil,Resposta anulada,Discordo,Concordo
+1684,Resposta anulada,Médio,Discordo totalmente,Discordo
+1685,Muito difícil,Fácil,Concordo totalmente,Discordo parcialmente
+1686,Muito difícil,Médio,Discordo totalmente,Não sei responder
+1687,Muito difícil,Médio,Discordo parcialmente,Não sei responder
+1688,Difícil,Médio,Não informado,Não informado
+1689,Difícil,Muito fácil,Discordo parcialmente,Concordo
+1690,Muito difícil,Médio,Não sei responder,Discordo
+1691,Médio,Muito difícil,Não informado,Não informado
+1692,Muito difícil,Muito fácil,Concordo,Concordo parcialmente
+1693,Muito difícil,Muito fácil,Discordo,Concordo parcialmente
+1694,Resposta anulada,Fácil,Discordo,Concordo
+1695,Resposta anulada,Difícil,Concordo,Discordo parcialmente
+1696,Resposta anulada,Muito difícil,Discordo parcialmente,Concordo
+1697,Médio,Resposta anulada,Discordo,Discordo totalmente
+1698,Médio,Muito fácil,Discordo parcialmente,Concordo totalmente
+1699,Fácil,Resposta anulada,Discordo,Concordo
+1700,Médio,Médio,Concordo,Não informado
+1701,Resposta anulada,Médio,Discordo parcialmente,Discordo totalmente
+1702,Difícil,Fácil,Concordo,Discordo totalmente
+1703,Muito difícil,Muito fácil,Discordo parcialmente,Discordo totalmente
+1704,Difícil,Fácil,Concordo totalmente,Discordo
+1705,Resposta anulada,Fácil,Concordo totalmente,Concordo
+1706,Muito difícil,Fácil,Concordo totalmente,Concordo parcialmente
+1707,Fácil,Muito fácil,Concordo totalmente,Não sei responder
+1708,Muito difícil,Médio,Discordo totalmente,Concordo totalmente
+1709,Resposta anulada,Médio,Discordo parcialmente,Concordo totalmente
+1710,Muito fácil,Difícil,Discordo totalmente,Concordo totalmente
+1711,Muito fácil,Difícil,Concordo totalmente,Discordo
+1712,Fácil,Difícil,Não se aplica,Discordo parcialmente
+1713,Difícil,Muito fácil,Não sei responder,Concordo parcialmente
+1714,Fácil,Resposta anulada,Concordo totalmente,Concordo parcialmente
+1715,Médio,Médio,Concordo totalmente,Não informado
+1716,Muito difícil,Muito fácil,Discordo parcialmente,Concordo
+1717,Resposta anulada,Muito fácil,Concordo,Concordo totalmente
+1718,Difícil,Difícil,Concordo totalmente,Não informado
+1719,Muito difícil,Muito fácil,Discordo,Concordo
+1720,Difícil,Fácil,Discordo totalmente,Concordo
+1721,Difícil,Médio,Não informado,Concordo totalmente
+1722,Resposta anulada,Médio,Discordo totalmente,Concordo totalmente
+1723,Médio,Muito fácil,Não se aplica,Concordo parcialmente
+1724,Muito fácil,Muito difícil,Discordo totalmente,Concordo totalmente
+1725,Médio,Médio,Não informado,Concordo totalmente
+1726,Difícil,Muito fácil,Não se aplica,Concordo totalmente
+1727,Muito fácil,Resposta anulada,Discordo,Não sei responder
+1728,Muito fácil,Fácil,Discordo totalmente,Concordo parcialmente
+1729,Muito fácil,Resposta anulada,Não se aplica,Discordo totalmente
+1730,Muito difícil,Médio,Discordo,Não sei responder
+1731,Muito difícil,Fácil,Não sei responder,Não se aplica
+1732,Médio,Resposta anulada,Discordo totalmente,Não sei responder
+1733,Muito difícil,Médio,Não sei responder,Discordo totalmente
+1734,Fácil,Resposta anulada,Concordo totalmente,Não se aplica
+1735,Fácil,Muito fácil,Discordo totalmente,Concordo parcialmente
+1736,Resposta anulada,Muito fácil,Discordo parcialmente,Discordo parcialmente
+1737,Médio,Muito fácil,Não sei responder,Discordo
+1738,Fácil,Muito difícil,Não sei responder,Concordo
+1739,Muito fácil,Fácil,Não se aplica,Discordo totalmente
+1740,Difícil,Muito fácil,Discordo,Não se aplica
+1741,Muito fácil,Resposta anulada,Discordo parcialmente,Discordo totalmente
+1742,Muito difícil,Resposta anulada,Discordo,Discordo parcialmente
+1743,Muito difícil,Fácil,Não sei responder,Discordo
+1744,Fácil,Fácil,Não se aplica,Discordo
+1745,Difícil,Muito fácil,Discordo totalmente,Não se aplica
+1746,Resposta anulada,Médio,Discordo totalmente,Discordo parcialmente
+1747,Muito fácil,Muito difícil,Não sei responder,Concordo parcialmente
+1748,Muito difícil,Médio,Discordo parcialmente,Não se aplica
+1749,Muito fácil,Muito difícil,Não sei responder,Não se aplica
+1750,Resposta anulada,Médio,Concordo,Não sei responder
+1751,Muito fácil,Difícil,Não sei responder,Discordo parcialmente
+1752,Difícil,Resposta anulada,Discordo totalmente,Não se aplica
+1753,Médio,Muito fácil,Concordo,Discordo totalmente
+1754,Muito fácil,Muito difícil,Não se aplica,Não sei responder
+1755,Fácil,Resposta anulada,Concordo,Não sei responder
+1756,Resposta anulada,Muito difícil,Concordo parcialmente,Discordo
+1757,Fácil,Muito fácil,Não sei responder,Discordo parcialmente
+1758,Muito difícil,Muito fácil,Discordo totalmente,Discordo
+1759,Difícil,Resposta anulada,Não sei responder,Discordo parcialmente
+1760,Resposta anulada,Fácil,Concordo,Discordo parcialmente
+1761,Médio,Muito fácil,Discordo parcialmente,Discordo totalmente
+1762,Muito fácil,Difícil,Não sei responder,Concordo totalmente
+1763,Fácil,Muito fácil,Não se aplica,Não sei responder
+1764,Fácil,Muito fácil,Discordo totalmente,Não sei responder
+1765,Resposta anulada,Médio,Discordo,Concordo parcialmente
+1766,Muito fácil,Muito fácil,Não se aplica,Discordo parcialmente
+1767,Muito difícil,Muito fácil,Discordo totalmente,Não se aplica
+1768,Fácil,Resposta anulada,Não sei responder,Não sei responder
+1769,Fácil,Muito fácil,Concordo,Não se aplica
+1770,Fácil,Difícil,Não sei responder,Discordo totalmente
+1771,Muito fácil,Resposta anulada,Não sei responder,Concordo totalmente
+1772,Muito fácil,Muito difícil,Não sei responder,Concordo
+1773,Resposta anulada,Muito difícil,Discordo,Concordo parcialmente
+1774,Resposta anulada,Médio,Não sei responder,Concordo parcialmente
+1775,Muito fácil,Difícil,Não se aplica,Concordo parcialmente
+1776,Muito difícil,Muito fácil,Concordo parcialmente,Discordo
+1777,Difícil,Fácil,Não se aplica,Discordo totalmente
+1778,Resposta anulada,Difícil,Concordo parcialmente,Discordo totalmente
+1779,Muito difícil,Muito fácil,Concordo,Discordo
+1780,Resposta anulada,Fácil,Discordo parcialmente,Concordo
+1781,Fácil,Muito fácil,Concordo,Não sei responder
+1782,Fácil,Muito fácil,Concordo,Discordo totalmente
+1783,Fácil,Resposta anulada,Discordo parcialmente,Discordo totalmente
+1784,Médio,Muito difícil,Discordo totalmente,Não sei responder
+1785,Muito fácil,Muito difícil,Concordo,Discordo
+1786,Muito fácil,Muito difícil,Concordo parcialmente,Não se aplica
+1787,Resposta anulada,Médio,Discordo,Não se aplica
+1788,Muito fácil,Resposta anulada,Concordo parcialmente,Discordo parcialmente
+1789,Resposta anulada,Fácil,Concordo parcialmente,Concordo totalmente
+1790,Resposta anulada,Difícil,Concordo totalmente,Não se aplica
+1791,Médio,Muito fácil,Discordo parcialmente,Não sei responder
+1792,Muito fácil,Resposta anulada,Concordo,Discordo parcialmente
+1793,Fácil,Resposta anulada,Discordo totalmente,Discordo
+1794,Resposta anulada,Muito fácil,Concordo parcialmente,Concordo
+1795,Resposta anulada,Difícil,Não sei responder,Não sei responder
+1796,Resposta anulada,Fácil,Concordo parcialmente,Não se aplica
+1797,Médio,Resposta anulada,Concordo,Discordo parcialmente
+1798,Resposta anulada,Muito difícil,Discordo parcialmente,Discordo
+1799,Fácil,Muito fácil,Discordo,Concordo totalmente
+1800,Muito difícil,Fácil,Concordo parcialmente,Não se aplica
+1801,Muito difícil,Fácil,Não se aplica,Concordo parcialmente
+1802,Fácil,Muito fácil,Não se aplica,Concordo
+1803,Muito fácil,Difícil,Discordo parcialmente,Concordo totalmente
+1804,Médio,Muito fácil,Discordo,Não sei responder
+1805,Muito difícil,Fácil,Discordo,Discordo parcialmente
+1806,Resposta anulada,Muito difícil,Concordo parcialmente,Não se aplica
+1807,Médio,Muito fácil,Discordo,Concordo totalmente
+1808,Difícil,Resposta anulada,Concordo parcialmente,Não se aplica
+1809,Muito difícil,Fácil,Concordo totalmente,Discordo
+1810,Médio,Muito fácil,Não se aplica,Concordo totalmente
+1811,Resposta anulada,Muito fácil,Concordo,Concordo parcialmente
+1812,Muito difícil,Fácil,Discordo,Concordo totalmente
+1813,Resposta anulada,Médio,Concordo parcialmente,Discordo
+1814,Resposta anulada,Médio,Não se aplica,Concordo parcialmente
+1815,Muito fácil,Médio,Discordo totalmente,Não se aplica
+1816,Médio,Resposta anulada,Concordo totalmente,Discordo parcialmente
+1817,Fácil,Muito fácil,Discordo,Não sei responder
+1818,Resposta anulada,Médio,Discordo totalmente,Concordo parcialmente
+1819,Muito difícil,Resposta anulada,Discordo parcialmente,Não se aplica
+1820,Resposta anulada,Muito fácil,Concordo totalmente,Concordo
+1821,Resposta anulada,Difícil,Não sei responder,Concordo parcialmente
+1822,Muito fácil,Médio,Não sei responder,Concordo parcialmente
+1823,Resposta anulada,Muito difícil,Não sei responder,Não se aplica
+1824,Resposta anulada,Médio,Não sei responder,Discordo parcialmente
+1825,Médio,Médio,Não informado,Concordo
+1826,Resposta anulada,Muito difícil,Concordo parcialmente,Não sei responder
+1827,Muito difícil,Resposta anulada,Concordo parcialmente,Discordo
+1828,Resposta anulada,Muito difícil,Concordo,Concordo totalmente
+1829,Resposta anulada,Muito difícil,Concordo totalmente,Concordo parcialmente
+1830,Muito fácil,Muito fácil,Discordo,Concordo totalmente
+1831,Fácil,Resposta anulada,Concordo parcialmente,Discordo
+1832,Médio,Difícil,Não informado,Concordo
+1833,Resposta anulada,Fácil,Concordo parcialmente,Concordo
+1834,Fácil,Resposta anulada,Concordo,Discordo
+1835,Difícil,Fácil,Não se aplica,Concordo
+1836,Muito fácil,Muito difícil,Discordo totalmente,Concordo
+1837,Médio,Resposta anulada,Concordo,Discordo
+1838,Difícil,Resposta anulada,Não se aplica,Concordo parcialmente
+1839,Muito fácil,Resposta anulada,Concordo parcialmente,Concordo totalmente
+1840,Muito difícil,Fácil,Concordo parcialmente,Não sei responder
+1841,Muito fácil,Resposta anulada,Não se aplica,Concordo totalmente
+1842,Médio,Muito fácil,Não se aplica,Discordo totalmente
+1843,Muito difícil,Resposta anulada,Concordo,Discordo parcialmente
+1844,Muito difícil,Fácil,Concordo totalmente,Não sei responder
+1845,Difícil,Resposta anulada,Não se aplica,Discordo
+1846,Difícil,Resposta anulada,Concordo,Discordo
+1847,Resposta anulada,Difícil,Não se aplica,Não sei responder
+1848,Fácil,Muito difícil,Discordo totalmente,Concordo totalmente
+1849,Resposta anulada,Fácil,Não se aplica,Concordo totalmente
+1850,Muito fácil,Resposta anulada,Concordo totalmente,Não sei responder
+1851,Resposta anulada,Difícil,Não sei responder,Discordo parcialmente
+1852,Resposta anulada,Muito difícil,Não sei responder,Concordo
+1853,Médio,Muito fácil,Concordo,Discordo parcialmente
+1854,Resposta anulada,Médio,Não se aplica,Concordo totalmente
+1855,Difícil,Fácil,Não sei responder,Concordo totalmente
+1856,Muito difícil,Resposta anulada,Concordo,Não se aplica
+1857,Fácil,Resposta anulada,Não sei responder,Concordo totalmente
+1858,Resposta anulada,Fácil,Discordo totalmente,Discordo
+1859,Fácil,Resposta anulada,Não sei responder,Discordo parcialmente
+1860,Difícil,Muito fácil,Discordo totalmente,Concordo parcialmente
+1861,Muito fácil,Difícil,Discordo parcialmente,Não se aplica
+1862,Fácil,Muito fácil,Concordo totalmente,Discordo totalmente
+1863,Fácil,Muito fácil,Discordo,Não se aplica
+1864,Muito difícil,Muito fácil,Não se aplica,Concordo totalmente
+1865,Resposta anulada,Médio,Discordo parcialmente,Concordo
+1866,Difícil,Muito fácil,Concordo totalmente,Discordo
+1867,Resposta anulada,Muito fácil,Discordo parcialmente,Concordo parcialmente
+1868,Resposta anulada,Muito fácil,Concordo totalmente,Não se aplica
+1869,Muito difícil,Muito fácil,Discordo,Concordo totalmente
+1870,Resposta anulada,Fácil,Concordo,Concordo parcialmente
+1871,Difícil,Muito fácil,Discordo parcialmente,Concordo totalmente
+1872,Fácil,Muito fácil,Concordo parcialmente,Não sei responder
+1873,Resposta anulada,Muito fácil,Concordo totalmente,Concordo parcialmente
+1874,Médio,Muito fácil,Discordo totalmente,Não sei responder
+1875,Difícil,Muito fácil,Concordo totalmente,Discordo totalmente
+1876,Resposta anulada,Muito fácil,Concordo,Discordo parcialmente
+1877,Resposta anulada,Médio,Concordo totalmente,Discordo parcialmente
+1878,Médio,Muito fácil,Não se aplica,Não sei responder
+1879,Resposta anulada,Muito fácil,Concordo parcialmente,Não se aplica
+1880,Difícil,Muito fácil,Concordo,Não sei responder
+1881,Fácil,Resposta anulada,Não sei responder,Concordo
+1882,Difícil,Muito fácil,Concordo,Discordo totalmente
+1883,Resposta anulada,Fácil,Concordo totalmente,Discordo parcialmente
+1884,Fácil,Muito fácil,Não se aplica,Discordo parcialmente
+1885,Resposta anulada,Muito fácil,Não se aplica,Concordo
+1886,Difícil,Muito fácil,Não se aplica,Concordo
+1887,Muito fácil,Muito fácil,Não sei responder,Discordo
+1888,Resposta anulada,Muito fácil,Discordo totalmente,Concordo totalmente
+1889,Muito difícil,Muito fácil,Concordo totalmente,Discordo totalmente
+1890,Resposta anulada,Muito fácil,Concordo totalmente,Não sei responder
+1891,Muito difícil,Muito fácil,Concordo totalmente,Não sei responder
+1892,Fácil,Muito difícil,Não se aplica,Concordo totalmente
+1893,Fácil,Muito fácil,Concordo,Discordo
+1894,Resposta anulada,Muito fácil,Não se aplica,Concordo totalmente
+1895,Muito difícil,Muito fácil,Concordo,Discordo parcialmente
+1896,Resposta anulada,Fácil,Não sei responder,Concordo totalmente
+1897,Muito difícil,Muito fácil,Não sei responder,Concordo totalmente
+1898,Resposta anulada,Muito fácil,Concordo,Não sei responder
+1899,Muito difícil,Muito fácil,Concordo,Não se aplica
+1900,Resposta anulada,Difícil,Não se aplica,Concordo
+1901,Muito difícil,Muito fácil,Não sei responder,Não se aplica
+1902,Muito difícil,Resposta anulada,Discordo totalmente,Discordo
+1903,Resposta anulada,Fácil,Discordo totalmente,Concordo totalmente
+1904,Fácil,Muito fácil,Discordo parcialmente,Não sei responder
+1905,Resposta anulada,Médio,Não sei responder,Não se aplica
+1906,Muito fácil,Fácil,Não sei responder,Discordo
+1907,Difícil,Fácil,Discordo,Não se aplica
+1908,Resposta anulada,Muito fácil,Concordo parcialmente,Concordo totalmente
+1909,Muito fácil,Muito difícil,Discordo totalmente,Não sei responder
+1910,Muito difícil,Muito fácil,Não sei responder,Discordo
+1911,Muito difícil,Muito fácil,Discordo totalmente,Concordo
+1912,Resposta anulada,Muito fácil,Não sei responder,Concordo totalmente
+1913,Difícil,Muito fácil,Não sei responder,Discordo
+1914,Muito difícil,Muito fácil,Não se aplica,Discordo parcialmente
+1915,Resposta anulada,Fácil,Discordo,Discordo totalmente
+1916,Médio,Muito fácil,Concordo totalmente,Discordo
+1917,Médio,Muito fácil,Discordo totalmente,Não se aplica
+1918,Muito difícil,Fácil,Não se aplica,Concordo totalmente
+1919,Fácil,Muito fácil,Não se aplica,Discordo
+1920,Difícil,Muito fácil,Não sei responder,Discordo parcialmente
+1921,Resposta anulada,Fácil,Concordo,Não se aplica
+1922,Resposta anulada,Muito fácil,Não se aplica,Não sei responder
+1923,Muito difícil,Fácil,Não se aplica,Não sei responder
+1924,Difícil,Muito fácil,Concordo parcialmente,Discordo totalmente
+1925,Difícil,Muito fácil,Concordo parcialmente,Discordo
+1926,Difícil,Muito fácil,Discordo totalmente,Concordo
+1927,Resposta anulada,Muito fácil,Discordo totalmente,Concordo
+1928,Difícil,Muito fácil,Não se aplica,Discordo totalmente
+1929,Médio,Resposta anulada,Concordo totalmente,Não se aplica
+1930,Difícil,Muito fácil,Discordo parcialmente,Não sei responder
+1931,Resposta anulada,Difícil,Concordo parcialmente,Não sei responder
+1932,Difícil,Muito fácil,Concordo totalmente,Discordo parcialmente
+1933,Muito fácil,Resposta anulada,Não sei responder,Discordo totalmente
+1934,Resposta anulada,Difícil,Discordo totalmente,Concordo parcialmente
+1935,Muito difícil,Fácil,Não sei responder,Discordo parcialmente
+1936,Resposta anulada,Médio,Concordo,Discordo totalmente
+1937,Muito difícil,Fácil,Concordo,Não sei responder
+1938,Médio,Muito fácil,Concordo totalmente,Discordo totalmente
+1939,Médio,Muito fácil,Não se aplica,Discordo parcialmente
+1940,Muito difícil,Fácil,Discordo totalmente,Concordo totalmente
+1941,Resposta anulada,Fácil,Concordo totalmente,Não se aplica
+1942,Resposta anulada,Muito fácil,Discordo,Concordo parcialmente
+1943,Muito difícil,Fácil,Discordo parcialmente,Não sei responder
+1944,Muito difícil,Muito fácil,Discordo,Não se aplica
+1945,Resposta anulada,Muito fácil,Discordo,Concordo totalmente
+1946,Difícil,Resposta anulada,Não se aplica,Não sei responder
+1947,Difícil,Muito fácil,Discordo,Concordo
+1948,Difícil,Fácil,Não sei responder,Discordo
+1949,Difícil,Muito fácil,Discordo,Não sei responder
+1950,Muito difícil,Fácil,Discordo totalmente,Não se aplica
+1951,Fácil,Muito difícil,Discordo parcialmente,Não se aplica
+1952,Fácil,Resposta anulada,Concordo totalmente,Não sei responder
+1953,Difícil,Muito fácil,Não se aplica,Não sei responder
+1954,Muito difícil,Fácil,Discordo totalmente,Não sei responder
+1955,Resposta anulada,Fácil,Não sei responder,Não se aplica
+1956,Resposta anulada,Fácil,Discordo parcialmente,Concordo totalmente
+1957,Difícil,Resposta anulada,Não sei responder,Concordo
+1958,Muito difícil,Muito fácil,Não se aplica,Concordo
+1959,Resposta anulada,Médio,Discordo totalmente,Não se aplica
+1960,Muito fácil,Difícil,Concordo,Discordo totalmente
+1961,Resposta anulada,Fácil,Concordo totalmente,Discordo
+1962,Muito difícil,Fácil,Não sei responder,Concordo totalmente
+1963,Difícil,Muito fácil,Discordo totalmente,Não sei responder
+1964,Muito difícil,Muito fácil,Discordo parcialmente,Não se aplica
+1965,Muito difícil,Muito fácil,Não sei responder,Concordo parcialmente
+1966,Fácil,Muito fácil,Não sei responder,Discordo
+1967,Fácil,Resposta anulada,Concordo parcialmente,Não se aplica
+1968,Muito difícil,Muito fácil,Discordo totalmente,Concordo totalmente
+1969,Difícil,Muito fácil,Não se aplica,Discordo parcialmente
+1970,Resposta anulada,Fácil,Concordo,Discordo
+1971,Muito difícil,Fácil,Não sei responder,Concordo
+1972,Fácil,Resposta anulada,Não se aplica,Concordo
+1973,Médio,Resposta anulada,Concordo parcialmente,Não se aplica
+1974,Resposta anulada,Fácil,Discordo parcialmente,Discordo totalmente
+1975,Muito difícil,Fácil,Concordo totalmente,Discordo totalmente
+1976,Muito difícil,Muito fácil,Não se aplica,Não sei responder
+1977,Muito fácil,Resposta anulada,Concordo totalmente,Não se aplica
+1978,Muito difícil,Resposta anulada,Concordo totalmente,Discordo parcialmente
+1979,Muito fácil,Médio,Não se aplica,Discordo totalmente
+1980,Resposta anulada,Muito fácil,Discordo totalmente,Discordo
+1981,Fácil,Resposta anulada,Não se aplica,Concordo totalmente
+1982,Resposta anulada,Fácil,Discordo,Concordo totalmente
+1983,Muito difícil,Muito fácil,Não sei responder,Concordo
+1984,Resposta anulada,Médio,Discordo parcialmente,Não se aplica
+1985,Muito difícil,Muito fácil,Concordo totalmente,Discordo parcialmente
+1986,Muito fácil,Resposta anulada,Concordo,Não sei responder
+1987,Resposta anulada,Muito difícil,Não sei responder,Concordo totalmente
+1988,Resposta anulada,Difícil,Concordo totalmente,Discordo parcialmente
+1989,Resposta anulada,Fácil,Não se aplica,Concordo parcialmente
+1990,Resposta anulada,Médio,Concordo parcialmente,Discordo totalmente
+1991,Fácil,Fácil,Não informado,Não informado
+1992,Fácil,Muito difícil,Discordo parcialmente,Discordo totalmente
+1993,Difícil,Muito fácil,Não informado,Não informado
+1994,Resposta anulada,Muito fácil,Discordo totalmente,Não se aplica
+1995,Difícil,Resposta anulada,Concordo,Discordo totalmente
+1996,Muito difícil,Fácil,Concordo parcialmente,Discordo totalmente
+1997,Fácil,Resposta anulada,Não sei responder,Discordo
+1998,Resposta anulada,Fácil,Concordo totalmente,Não sei responder
+1999,Resposta anulada,Fácil,Concordo parcialmente,Discordo totalmente
+2000,Resposta anulada,Muito fácil,Discordo parcialmente,Discordo
+2001,Resposta anulada,Médio,Concordo totalmente,Discordo totalmente
+2002,Fácil,Resposta anulada,Discordo parcialmente,Concordo totalmente
+2003,Muito fácil,Fácil,Não sei responder,Discordo totalmente
+2004,Resposta anulada,Difícil,Não sei responder,Não se aplica
+2005,Muito difícil,Muito fácil,Discordo,Não sei responder
+2006,Muito difícil,Muito difícil,Não informado,Não informado
+2007,Resposta anulada,Médio,Discordo,Concordo
+2008,Muito difícil,Muito fácil,Concordo parcialmente,Discordo totalmente
+2009,Resposta anulada,Fácil,Discordo,Discordo parcialmente
+2010,Muito difícil,Muito fácil,Discordo parcialmente,Não sei responder
+2011,Difícil,Fácil,Não sei responder,Discordo totalmente
+2012,Difícil,Resposta anulada,Concordo,Não sei responder
+2013,Muito fácil,Resposta anulada,Concordo totalmente,Concordo parcialmente
+2014,Resposta anulada,Muito fácil,Concordo totalmente,Discordo parcialmente
+2015,Muito difícil,Resposta anulada,Concordo totalmente,Não se aplica
+2016,Fácil,Resposta anulada,Concordo,Discordo parcialmente
+2017,Resposta anulada,Muito difícil,Não se aplica,Concordo totalmente
+2018,Difícil,Fácil,Não se aplica,Discordo
+2019,Resposta anulada,Difícil,Discordo parcialmente,Concordo totalmente
+2020,Resposta anulada,Fácil,Concordo totalmente,Discordo totalmente
+2021,Resposta anulada,Médio,Concordo totalmente,Discordo
+2022,Resposta anulada,Fácil,Não informado,Não informado
+2023,Resposta anulada,Difícil,Não sei responder,Concordo totalmente
+2024,Muito difícil,Muito fácil,Concordo totalmente,Discordo
+2025,Muito difícil,Muito fácil,Não se aplica,Discordo totalmente
+2026,Muito difícil,Fácil,Discordo totalmente,Concordo
+2027,Muito fácil,Difícil,Não se aplica,Discordo totalmente
+2028,Resposta anulada,Fácil,Não sei responder,Concordo parcialmente
+2029,Fácil,Muito difícil,Não sei responder,Concordo totalmente
+2030,Difícil,Muito fácil,Não sei responder,Discordo totalmente
+2031,Resposta anulada,Difícil,Discordo,Concordo totalmente
+2032,Resposta anulada,Difícil,Não se aplica,Concordo parcialmente
+2033,Muito difícil,Muito fácil,Não sei responder,Discordo parcialmente
+2034,Resposta anulada,Difícil,Discordo totalmente,Discordo parcialmente
+2035,Resposta anulada,Muito fácil,Concordo,Não se aplica
+2036,Resposta anulada,Fácil,Não se aplica,Concordo
+2037,Médio,Fácil,Não informado,Não informado
+2038,Resposta anulada,Muito difícil,Discordo parcialmente,Não sei responder
+2039,Médio,Resposta anulada,Concordo,Não sei responder
+2040,Resposta anulada,Médio,Discordo totalmente,Não sei responder
+2041,Resposta anulada,Difícil,Discordo totalmente,Não sei responder
+2042,Difícil,Fácil,Não sei responder,Não informado
+2043,Difícil,Muito fácil,Não sei responder,Não informado
+2044,Muito difícil,Muito fácil,Não sei responder,Discordo totalmente
+2045,Resposta anulada,Muito fácil,Não se aplica,Discordo
+2046,Muito difícil,Resposta anulada,Não se aplica,Não sei responder
+2047,Resposta anulada,Fácil,Não se aplica,Não sei responder
+2048,Resposta anulada,Médio,Não informado,Não informado
+2049,Difícil,Fácil,Não informado,Não informado
+2050,Muito difícil,Médio,Não informado,Não informado
+2051,Médio,Muito fácil,Não informado,Não informado
+2052,Muito difícil,Fácil,Não informado,Não informado
+2053,Muito difícil,Muito fácil,Não informado,Não informado
+2054,Muito fácil,Médio,Não informado,Não informado
+2055,Muito fácil,Muito fácil,Não informado,Não informado
+2056,Fácil,Difícil,Não informado,Não informado
+2057,Muito difícil,Difícil,Não informado,Não informado
+2058,Resposta anulada,Muito fácil,Não informado,Não informado
+2059,Fácil,Muito fácil,Não informado,Não informado
+2060,Resposta anulada,Difícil,Não informado,Não informado
+2061,Muito fácil,Fácil,Não informado,Não informado
+2062,Fácil,Muito difícil,Não informado,Não informado
+2063,Médio,Resposta anulada,Não informado,Não informado
+2064,Difícil,Muito difícil,Não informado,Não informado
+2065,Resposta anulada,Muito difícil,Não informado,Não informado
+2066,Muito fácil,Difícil,Não informado,Não informado
+2067,Muito fácil,Muito difícil,Não informado,Não informado
+2068,Difícil,Resposta anulada,Não informado,Não informado
+2069,Fácil,Resposta anulada,Não informado,Não informado
+2070,Muito difícil,Resposta anulada,Não informado,Não informado
+2071,Muito fácil,Resposta anulada,Não informado,Não informado
+2072,Difícil,Resposta anulada,Discordo parcialmente,Não se aplica
+2073,Muito fácil,Resposta anulada,Discordo parcialmente,Discordo
+2074,Muito fácil,Resposta anulada,Discordo totalmente,Discordo parcialmente
+2075,Difícil,Muito fácil,Não se aplica,Discordo
+2076,Resposta anulada,Médio,Não se aplica,Discordo parcialmente
+2077,Resposta anulada,Muito difícil,Discordo totalmente,Discordo
+2078,Resposta anulada,Muito fácil,Discordo parcialmente,Concordo totalmente
+2079,Resposta anulada,Muito fácil,Discordo parcialmente,Discordo totalmente
+2080,Muito difícil,Fácil,Não sei responder,Concordo parcialmente
+2081,Fácil,Resposta anulada,Discordo totalmente,Concordo parcialmente
+2082,Difícil,Resposta anulada,Concordo totalmente,Discordo parcialmente
+2083,Muito difícil,Resposta anulada,Não se aplica,Concordo totalmente
+2084,Difícil,Médio,Concordo,Não informado
+2085,Muito difícil,Resposta anulada,Não se aplica,Concordo
+2086,Muito difícil,Muito fácil,Discordo totalmente,Não sei responder
+2087,Muito difícil,Fácil,Não se aplica,Discordo
+2088,Fácil,Muito difícil,Discordo totalmente,Não sei responder
+2089,Difícil,Médio,Discordo parcialmente,Não informado
+2090,Médio,Resposta anulada,Não se aplica,Não sei responder
+2091,Fácil,Muito difícil,Discordo totalmente,Não se aplica
+2092,Fácil,Muito difícil,Não sei responder,Discordo totalmente
+2093,Fácil,Muito difícil,Concordo totalmente,Discordo

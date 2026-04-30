@@ -1,0 +1,102 @@
+[
+  {
+    "curso": "Tecnologia Em Logística",
+    "qtd_alunos": 3398,
+    "media_nota_geral": 48.8
+  },
+  {
+    "curso": "Tecnologia Em Processos Gerenciais",
+    "qtd_alunos": 4069,
+    "media_nota_geral": 48.47
+  },
+  {
+    "curso": "Tecnologia Em Gestão Comercial",
+    "qtd_alunos": 1563,
+    "media_nota_geral": 48.33
+  },
+  {
+    "curso": "Tecnologia Em Gestão Financeira",
+    "qtd_alunos": 2196,
+    "media_nota_geral": 48.16
+  },
+  {
+    "curso": "Tecnologia Em Gestão De Recursos Humanos",
+    "qtd_alunos": 6998,
+    "media_nota_geral": 47.74
+  },
+  {
+    "curso": "Tecnologia Em Gestão Pública",
+    "qtd_alunos": 1309,
+    "media_nota_geral": 47.72
+  },
+  {
+    "curso": "Geografia (Bacharelado)",
+    "qtd_alunos": 1626,
+    "media_nota_geral": 47.7
+  },
+  {
+    "curso": "Tecnologia Em Marketing",
+    "qtd_alunos": 2748,
+    "media_nota_geral": 47.62
+  },
+  {
+    "curso": "Tecnologia Em Estética E Cosmética",
+    "qtd_alunos": 1430,
+    "media_nota_geral": 47.49
+  },
+  {
+    "curso": "Tecnologia Em Gastronomia",
+    "qtd_alunos": 1994,
+    "media_nota_geral": 47.11
+  },
+  {
+    "curso": "Tecnologia Em Radiologia",
+    "qtd_alunos": 1241,
+    "media_nota_geral": 46.11
+  },
+  {
+    "curso": "História (Bacharelado)",
+    "qtd_alunos": 1300,
+    "media_nota_geral": 45.89
+  },
+  {
+    "curso": "Filosofia (Bacharelado)",
+    "qtd_alunos": 1107,
+    "media_nota_geral": 45.81
+  },
+  {
+    "curso": "Educação Física (Bacharelado)",
+    "qtd_alunos": 20210,
+    "media_nota_geral": 45.26
+  },
+  {
+    "curso": "Engenharia Ambiental",
+    "qtd_alunos": 3899,
+    "media_nota_geral": 45.04
+  },
+  {
+    "curso": "Tecnologia Em Comércio Exterior",
+    "qtd_alunos": 1050,
+    "media_nota_geral": 44.44
+  },
+  {
+    "curso": "Ciências Biológicas (Bacharelado)",
+    "qtd_alunos": 4250,
+    "media_nota_geral": 43.47
+  },
+  {
+    "curso": "Teologia",
+    "qtd_alunos": 2225,
+    "media_nota_geral": 43.46
+  },
+  {
+    "curso": "Engenharia De Produção",
+    "qtd_alunos": 11796,
+    "media_nota_geral": 43.26
+  },
+  {
+    "curso": "Engenharia De Controle E Automação",
+    "qtd_alunos": 2490,
+    "media_nota_geral": 43.24
+  }
+]

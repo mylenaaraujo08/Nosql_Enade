@@ -1,0 +1,164 @@
+[
+  {
+    "uf": "AC",
+    "regiao": "Norte",
+    "qtd_alunos": 2332,
+    "media_nota": 41.47
+  },
+  {
+    "uf": "AL",
+    "regiao": "Nordeste",
+    "qtd_alunos": 8517,
+    "media_nota": 39.0
+  },
+  {
+    "uf": "AM",
+    "regiao": "Norte",
+    "qtd_alunos": 13029,
+    "media_nota": 37.51
+  },
+  {
+    "uf": "AP",
+    "regiao": "Norte",
+    "qtd_alunos": 2717,
+    "media_nota": 39.89
+  },
+  {
+    "uf": "BA",
+    "regiao": "Nordeste",
+    "qtd_alunos": 29357,
+    "media_nota": 38.61
+  },
+  {
+    "uf": "CE",
+    "regiao": "Nordeste",
+    "qtd_alunos": 21133,
+    "media_nota": 35.64
+  },
+  {
+    "uf": "DF",
+    "regiao": "Centro-Oeste",
+    "qtd_alunos": 16805,
+    "media_nota": 33.94
+  },
+  {
+    "uf": "ES",
+    "regiao": "Sudeste",
+    "qtd_alunos": 11565,
+    "media_nota": 37.97
+  },
+  {
+    "uf": "GO",
+    "regiao": "Centro-Oeste",
+    "qtd_alunos": 21915,
+    "media_nota": 36.41
+  },
+  {
+    "uf": "MA",
+    "regiao": "Nordeste",
+    "qtd_alunos": 12204,
+    "media_nota": 38.84
+  },
+  {
+    "uf": "MG",
+    "regiao": "Sudeste",
+    "qtd_alunos": 95193,
+    "media_nota": 36.8
+  },
+  {
+    "uf": "MS",
+    "regiao": "Centro-Oeste",
+    "qtd_alunos": 19262,
+    "media_nota": 36.33
+  },
+  {
+    "uf": "MT",
+    "regiao": "Centro-Oeste",
+    "qtd_alunos": 9845,
+    "media_nota": 36.08
+  },
+  {
+    "uf": "PA",
+    "regiao": "Norte",
+    "qtd_alunos": 12424,
+    "media_nota": 35.54
+  },
+  {
+    "uf": "PB",
+    "regiao": "Nordeste",
+    "qtd_alunos": 13341,
+    "media_nota": 36.49
+  },
+  {
+    "uf": "PE",
+    "regiao": "Nordeste",
+    "qtd_alunos": 24801,
+    "media_nota": 36.04
+  },
+  {
+    "uf": "PI",
+    "regiao": "Nordeste",
+    "qtd_alunos": 11255,
+    "media_nota": 37.92
+  },
+  {
+    "uf": "PR",
+    "regiao": "Sul",
+    "qtd_alunos": 72485,
+    "media_nota": 40.65
+  },
+  {
+    "uf": "RJ",
+    "regiao": "Sudeste",
+    "qtd_alunos": 75046,
+    "media_nota": 35.08
+  },
+  {
+    "uf": "RN",
+    "regiao": "Nordeste",
+    "qtd_alunos": 9773,
+    "media_nota": 36.35
+  },
+  {
+    "uf": "RO",
+    "regiao": "Norte",
+    "qtd_alunos": 4544,
+    "media_nota": 38.4
+  },
+  {
+    "uf": "RR",
+    "regiao": "Norte",
+    "qtd_alunos": 1895,
+    "media_nota": 39.5
+  },
+  {
+    "uf": "RS",
+    "regiao": "Sul",
+    "qtd_alunos": 39497,
+    "media_nota": 33.72
+  },
+  {
+    "uf": "SC",
+    "regiao": "Sul",
+    "qtd_alunos": 34696,
+    "media_nota": 37.68
+  },
+  {
+    "uf": "SE",
+    "regiao": "Nordeste",
+    "qtd_alunos": 7600,
+    "media_nota": 38.83
+  },
+  {
+    "uf": "SP",
+    "regiao": "Sudeste",
+    "qtd_alunos": 197035,
+    "media_nota": 37.11
+  },
+  {
+    "uf": "TO",
+    "regiao": "Norte",
+    "qtd_alunos": 4800,
+    "media_nota": 40.3
+  }
+]

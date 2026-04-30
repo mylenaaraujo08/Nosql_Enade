@@ -1,0 +1,352 @@
+[
+  {
+    "municipio": "MANAUS",
+    "uf": "AM",
+    "media_nota_municipio": "",
+    "media_nota_uf": "",
+    "delta": -0.8
+  },
+  {
+    "municipio": "BARREIRAS",
+    "uf": "BA",
+    "media_nota_municipio": "",
+    "media_nota_uf": "",
+    "delta": -4.69
+  },
+  {
+    "municipio": "ILHEUS",
+    "uf": "BA",
+    "media_nota_municipio": "",
+    "media_nota_uf": "",
+    "delta": -4.69
+  },
+  {
+    "municipio": "SALVADOR",
+    "uf": "BA",
+    "media_nota_municipio": "",
+    "media_nota_uf": "",
+    "delta": -2.09
+  },
+  {
+    "municipio": "FORTALEZA",
+    "uf": "CE",
+    "media_nota_municipio": "",
+    "media_nota_uf": "",
+    "delta": -1.03
+  },
+  {
+    "municipio": "BRASILIA",
+    "uf": "DF",
+    "media_nota_municipio": "",
+    "media_nota_uf": "",
+    "delta": 0.0
+  },
+  {
+    "municipio": "ANAPOLIS",
+    "uf": "GO",
+    "media_nota_municipio": "",
+    "media_nota_uf": "",
+    "delta": -0.38
+  },
+  {
+    "municipio": "ALFENAS",
+    "uf": "MG",
+    "media_nota_municipio": "",
+    "media_nota_uf": "",
+    "delta": -10.78
+  },
+  {
+    "municipio": "CAMPO BELO",
+    "uf": "MG",
+    "media_nota_municipio": "",
+    "media_nota_uf": "",
+    "delta": -15.22
+  },
+  {
+    "municipio": "DIVINOPOLIS",
+    "uf": "MG",
+    "media_nota_municipio": "",
+    "media_nota_uf": "",
+    "delta": -1.18
+  },
+  {
+    "municipio": "OURO PRETO",
+    "uf": "MG",
+    "media_nota_municipio": "",
+    "media_nota_uf": "",
+    "delta": -1.7
+  },
+  {
+    "municipio": "TRES CORACOES",
+    "uf": "MG",
+    "media_nota_municipio": "",
+    "media_nota_uf": "",
+    "delta": -5.5
+  },
+  {
+    "municipio": "UBERLANDIA",
+    "uf": "MG",
+    "media_nota_municipio": "",
+    "media_nota_uf": "",
+    "delta": -2.54
+  },
+  {
+    "municipio": "VICOSA",
+    "uf": "MG",
+    "media_nota_municipio": "",
+    "media_nota_uf": "",
+    "delta": -3.87
+  },
+  {
+    "municipio": "CUIABA",
+    "uf": "MT",
+    "media_nota_municipio": "",
+    "media_nota_uf": "",
+    "delta": -7.49
+  },
+  {
+    "municipio": "RONDONOPOLIS",
+    "uf": "MT",
+    "media_nota_municipio": "",
+    "media_nota_uf": "",
+    "delta": -0.99
+  },
+  {
+    "municipio": "RECIFE",
+    "uf": "PE",
+    "media_nota_municipio": "",
+    "media_nota_uf": "",
+    "delta": -4.64
+  },
+  {
+    "municipio": "PARNAIBA",
+    "uf": "PI",
+    "media_nota_municipio": "",
+    "media_nota_uf": "",
+    "delta": -0.87
+  },
+  {
+    "municipio": "TERESINA",
+    "uf": "PI",
+    "media_nota_municipio": "",
+    "media_nota_uf": "",
+    "delta": -2.79
+  },
+  {
+    "municipio": "CIANORTE",
+    "uf": "PR",
+    "media_nota_municipio": "",
+    "media_nota_uf": "",
+    "delta": 0.57
+  },
+  {
+    "municipio": "CURITIBA",
+    "uf": "PR",
+    "media_nota_municipio": "",
+    "media_nota_uf": "",
+    "delta": -1.36
+  },
+  {
+    "municipio": "LONDRINA",
+    "uf": "PR",
+    "media_nota_municipio": "",
+    "media_nota_uf": "",
+    "delta": 8.9
+  },
+  {
+    "municipio": "MARINGA",
+    "uf": "PR",
+    "media_nota_municipio": "",
+    "media_nota_uf": "",
+    "delta": 1.76
+  },
+  {
+    "municipio": "PARANAVAI",
+    "uf": "PR",
+    "media_nota_municipio": "",
+    "media_nota_uf": "",
+    "delta": -13.6
+  },
+  {
+    "municipio": "PETROPOLIS",
+    "uf": "RJ",
+    "media_nota_municipio": "",
+    "media_nota_uf": "",
+    "delta": -5.12
+  },
+  {
+    "municipio": "MOSSORO",
+    "uf": "RN",
+    "media_nota_municipio": "",
+    "media_nota_uf": "",
+    "delta": 3.43
+  },
+  {
+    "municipio": "BENTO GONCALVES",
+    "uf": "RS",
+    "media_nota_municipio": "",
+    "media_nota_uf": "",
+    "delta": -1.8
+  },
+  {
+    "municipio": "CARAZINHO",
+    "uf": "RS",
+    "media_nota_municipio": "",
+    "media_nota_uf": "",
+    "delta": -0.72
+  },
+  {
+    "municipio": "CASCA",
+    "uf": "RS",
+    "media_nota_municipio": "",
+    "media_nota_uf": "",
+    "delta": -14.67
+  },
+  {
+    "municipio": "CAXIAS DO SUL",
+    "uf": "RS",
+    "media_nota_municipio": "",
+    "media_nota_uf": "",
+    "delta": -2.82
+  },
+  {
+    "municipio": "NOVO HAMBURGO",
+    "uf": "RS",
+    "media_nota_municipio": "",
+    "media_nota_uf": "",
+    "delta": -3.11
+  },
+  {
+    "municipio": "PASSO FUNDO",
+    "uf": "RS",
+    "media_nota_municipio": "",
+    "media_nota_uf": "",
+    "delta": -3.11
+  },
+  {
+    "municipio": "PELOTAS",
+    "uf": "RS",
+    "media_nota_municipio": "",
+    "media_nota_uf": "",
+    "delta": -2.09
+  },
+  {
+    "municipio": "PORTO ALEGRE",
+    "uf": "RS",
+    "media_nota_municipio": "",
+    "media_nota_uf": "",
+    "delta": -3.07
+  },
+  {
+    "municipio": "RIO GRANDE",
+    "uf": "RS",
+    "media_nota_municipio": "",
+    "media_nota_uf": "",
+    "delta": -1.59
+  },
+  {
+    "municipio": "SAO LEOPOLDO",
+    "uf": "RS",
+    "media_nota_municipio": "",
+    "media_nota_uf": "",
+    "delta": -5.61
+  },
+  {
+    "municipio": "VACARIA",
+    "uf": "RS",
+    "media_nota_municipio": "",
+    "media_nota_uf": "",
+    "delta": -8.57
+  },
+  {
+    "municipio": "BLUMENAU",
+    "uf": "SC",
+    "media_nota_municipio": "",
+    "media_nota_uf": "",
+    "delta": -1.99
+  },
+  {
+    "municipio": "FLORIANOPOLIS",
+    "uf": "SC",
+    "media_nota_municipio": "",
+    "media_nota_uf": "",
+    "delta": -1.66
+  },
+  {
+    "municipio": "JOACABA",
+    "uf": "SC",
+    "media_nota_municipio": "",
+    "media_nota_uf": "",
+    "delta": -8.97
+  },
+  {
+    "municipio": "JOINVILLE",
+    "uf": "SC",
+    "media_nota_municipio": "",
+    "media_nota_uf": "",
+    "delta": 1.4
+  },
+  {
+    "municipio": "RIO DO SUL",
+    "uf": "SC",
+    "media_nota_municipio": "",
+    "media_nota_uf": "",
+    "delta": 0.22
+  },
+  {
+    "municipio": "SAO CRISTOVAO",
+    "uf": "SE",
+    "media_nota_municipio": "",
+    "media_nota_uf": "",
+    "delta": -9.75
+  },
+  {
+    "municipio": "ARARAQUARA",
+    "uf": "SP",
+    "media_nota_municipio": "",
+    "media_nota_uf": "",
+    "delta": -6.4
+  },
+  {
+    "municipio": "BARRETOS",
+    "uf": "SP",
+    "media_nota_municipio": "",
+    "media_nota_uf": "",
+    "delta": 5.12
+  },
+  {
+    "municipio": "BAURU",
+    "uf": "SP",
+    "media_nota_municipio": "",
+    "media_nota_uf": "",
+    "delta": -6.06
+  },
+  {
+    "municipio": "CAMPINAS",
+    "uf": "SP",
+    "media_nota_municipio": "",
+    "media_nota_uf": "",
+    "delta": -4.98
+  },
+  {
+    "municipio": "FRANCA",
+    "uf": "SP",
+    "media_nota_municipio": "",
+    "media_nota_uf": "",
+    "delta": -1.4
+  },
+  {
+    "municipio": "SAO BERNARDO DO CAMPO",
+    "uf": "SP",
+    "media_nota_municipio": "",
+    "media_nota_uf": "",
+    "delta": -2.23
+  },
+  {
+    "municipio": "SAO PAULO",
+    "uf": "SP",
+    "media_nota_municipio": "",
+    "media_nota_uf": "",
+    "delta": 1.68
+  }
+]

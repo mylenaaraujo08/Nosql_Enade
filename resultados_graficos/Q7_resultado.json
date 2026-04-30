@@ -1,0 +1,32 @@
+[
+  {
+    "faixa_nota": "0-25",
+    "renda_familiar": "Até 1,5 salário mínimo",
+    "qtd": 109964
+  },
+  {
+    "faixa_nota": "25-50",
+    "renda_familiar": "Até 1,5 salário mínimo",
+    "qtd": 93954
+  },
+  {
+    "faixa_nota": "25-50",
+    "renda_familiar": "De 1,5 a 3 salários mínimos)",
+    "qtd": 314982
+  },
+  {
+    "faixa_nota": "25-50",
+    "renda_familiar": "De 3 a 4,5 salários mínimos)",
+    "qtd": 154954
+  },
+  {
+    "faixa_nota": "50-75",
+    "renda_familiar": "De 3 a 4,5 salários mínimos)",
+    "qtd": 33444
+  },
+  {
+    "faixa_nota": "50-75",
+    "renda_familiar": "De 4,5 a 6 salários mínimos)",
+    "qtd": 65768
+  }
+]
