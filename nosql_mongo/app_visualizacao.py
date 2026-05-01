@@ -477,7 +477,7 @@ QUERIES_CONFIG = {
 		"x": "municipio",
 		"y": "delta",
 		"color": None,
-		"metricas": ["media_nota_municipio", "media_nota_uf", "delta"]
+		"metricas": ["media_municipio", "media_estadual", "delta"]
 	}
 }
 
