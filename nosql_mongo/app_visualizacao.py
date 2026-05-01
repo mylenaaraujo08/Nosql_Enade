@@ -19,8 +19,8 @@ st.set_page_config(
 	initial_sidebar_state="expanded"
 )
 
-# Carregar variáveis de ambiente
-load_dotenv()
+# Carregar variáveis de ambiente a partir da raiz do projeto
+load_dotenv(os.path.join(os.path.dirname(__file__), "..", ".env"))
 MONGO_URI = os.getenv('MONGO_URI')
 DB_NAME = "enade_db"
 
@@ -272,6 +272,84 @@ st.markdown(f"""
 		padding: 15px 20px !important;
 		font-weight: 500 !important;
 	}}
+
+	/* Painel de apresentação */
+	.intro-panel {{
+		background: linear-gradient(135deg, rgba(16, 27, 48, 0.96) 0%, rgba(13, 23, 40, 0.96) 100%);
+		border: 1px solid rgba(122, 183, 255, 0.14);
+		border-radius: 16px;
+		padding: 20px 22px;
+		margin-bottom: 20px;
+		box-shadow: 0 10px 24px rgba(0, 0, 0, 0.20);
+	}}
+
+	.intro-kicker {{
+		color: #7ab7ff;
+		font-size: 12px;
+		font-weight: 800;
+		letter-spacing: 0.12em;
+		text-transform: uppercase;
+		margin-bottom: 8px;
+	}}
+
+	.intro-title {{
+		color: #f4f7fb;
+		font-size: 28px;
+		font-weight: 800;
+		line-height: 1.1;
+		margin-bottom: 8px;
+	}}
+
+	.intro-text {{
+		color: rgba(229, 238, 252, 0.84);
+		font-size: 14px;
+		line-height: 1.55;
+		max-width: 980px;
+	}}
+
+	.compact-metrics {{
+		background: rgba(15, 23, 42, 0.70);
+		border: 1px solid rgba(36, 50, 74, 0.90);
+		border-radius: 14px;
+		padding: 14px 16px;
+		margin: 14px 0 20px 0;
+	}}
+
+	.compact-stat {{
+		padding: 8px 10px;
+		border-radius: 10px;
+		background: rgba(17, 28, 51, 0.88);
+		border: 1px solid rgba(36, 50, 74, 0.85);
+	}}
+
+	.compact-label {{
+		color: #9aa4b2;
+		font-size: 11px;
+		text-transform: uppercase;
+		letter-spacing: 0.08em;
+		margin-bottom: 2px;
+	}}
+
+	.compact-value {{
+		color: #eff6ff;
+		font-size: 15px;
+		font-weight: 700;
+		line-height: 1.25;
+		word-break: break-word;
+	}}
+
+	.compact-note {{
+		color: #8da2c0;
+		font-size: 11px;
+		margin-top: 2px;
+	}}
+
+	.small-section-title {{
+		color: #dbeafe;
+		font-size: 18px;
+		font-weight: 700;
+		margin: 12px 0 8px 0;
+	}}
     
 	/* Gráfico Container */
 	.graph-container {{
@@ -298,25 +376,30 @@ st.markdown(f"""
 		box-shadow: none !important;
 	}}
 
-	/* Seletor na sidebar com fundo branco e texto preto (remove quadrado escuro) */
-	[data-testid="stSidebar"] select,
-	[data-testid="stSidebar"] [role="combobox"] {{
-		background-color: #ffffff !important;
+	/* Estilo do expander "Ver dados completos" - texto preto em modo claro */
+	.streamlit-expanderHeader {{
 		color: #000000 !important;
-		border: 1px solid #e5e7eb !important;
-		border-radius: 8px !important;
-		padding: 10px !important;
-		font-weight: bold !important;
-		-webkit-appearance: none !important;
-		appearance: none !important;
-		background-image: none !important;
+		font-weight: 600 !important;
 	}}
 
-	/* Remover ícones/decorações remanescentes no select (fallback) */
-	[data-testid="stSidebar"] [role="combobox"] svg,
-	[data-testid="stSidebar"] .css-1wy0on6::before,
-	[data-testid="stSidebar"] .css-1wy0on6::after {{
+	/* Remover quaisquer espaços em branco indesejados */
+	[data-testid="stSidebar"] .stSelectbox {{
+		background: transparent !important;
+	}}
+
+	/* Ocultar apenas o ícone SVG do dropdown na sidebar (não remover o contêiner de opções) */
+	[data-testid="stSidebar"] [data-baseweb="select"] svg[data-baseweb="icon"] {{
 		display: none !important;
+	}}
+
+	/* Camuflar o campo de busca/caixa no select na sidebar (modo claro e escuro) */
+	[data-testid="stSidebar"] [data-baseweb="select"] div[value],
+	[data-testid="stSidebar"] [data-baseweb="select"] input[role="combobox"],
+	[data-testid="stSidebar"] [data-baseweb="select"] div[role="combobox"] {{
+		background: inherit !important;
+		border: none !important;
+		box-shadow: none !important;
+		color: inherit !important;
 	}}
     
 	</style>
@@ -397,4 +480,146 @@ QUERIES_CONFIG = {
 		"metricas": ["media_nota_municipio", "media_nota_uf", "delta"]
 	}
 }
+
+
+@st.cache_data(ttl=300)
+def carregar_dados(nome_colecao):
+	if not MONGO_URI:
+		raise RuntimeError("MONGO_URI não encontrado no .env")
+	cliente = MongoClient(MONGO_URI, serverSelectionTimeoutMS=30000, connectTimeoutMS=30000)
+	banco = cliente[DB_NAME]
+	dados = list(banco[nome_colecao].find({}))
+	if not dados:
+		return pd.DataFrame()
+	frame = pd.DataFrame(dados)
+	if "_id" in frame.columns:
+		frame = frame.drop(columns=["_id"])
+	return frame
+
+
+def exibir_metricas(frame, metricas):
+	if not metricas:
+		return
+	colunas = st.columns(len(metricas))
+	for indice, nome_coluna in enumerate(metricas):
+		if nome_coluna not in frame.columns:
+			continue
+		with colunas[indice]:
+			st.metric(nome_coluna.replace("_", " ").title(), frame[nome_coluna].iloc[0])
+
+
+def criar_grafico_barras(frame, eixo_x, eixo_y, cor=None, titulo=None):
+	if frame.empty or eixo_x not in frame.columns or eixo_y not in frame.columns:
+		st.info("Não há dados suficientes para montar o gráfico desta consulta.")
+		return
+
+	ordenado = frame.sort_values(by=eixo_y, ascending=False).head(20)
+	if cor and cor in ordenado.columns:
+		figura = px.bar(ordenado, x=eixo_y, y=eixo_x, color=cor, orientation="h", title=titulo)
+	else:
+		figura = px.bar(ordenado, x=eixo_y, y=eixo_x, orientation="h", title=titulo)
+
+	figura.update_layout(
+		height=max(420, 28 * len(ordenado)),
+		margin=dict(l=20, r=20, t=60, b=20),
+		paper_bgcolor="rgba(0,0,0,0)",
+		plot_bgcolor="rgba(0,0,0,0)",
+		font=dict(color="#e5eefc"),
+		legend_title_text=cor if cor else None,
+	)
+	figura.update_yaxes(autorange="reversed")
+	st.plotly_chart(figura, use_container_width=True)
+
+
+def main():
+	st.markdown(
+		"""
+		<div class="intro-panel">
+			<div class="intro-kicker">Projeto ENADE + MongoDB</div>
+			<div class="intro-title">ENADE Analytics Dashboard</div>
+			<div class="intro-text">
+				Uma apresentação visual mais limpa para navegar pelos resultados do ENADE. As análises ficam na lateral,
+				e o conteúdo principal mostra contexto, métricas resumidas e gráficos sem exagerar nos blocos expostos.
+			</div>
+		</div>
+		""",
+		unsafe_allow_html=True,
+	)
+
+	with st.sidebar:
+		st.header("Consultas")
+		st.caption("Escolha a análise que deseja explorar")
+		consulta = st.selectbox(
+			"Escolha a análise",
+			list(QUERIES_CONFIG.keys()),
+			format_func=lambda chave: f"{chave} - {QUERIES_CONFIG[chave]['titulo']}",
+		)
+		st.caption("As explicações aparecem abaixo no painel principal.")
+
+	config = QUERIES_CONFIG[consulta]
+	st.markdown(f"<div class='small-section-title'>{config['titulo']}</div>", unsafe_allow_html=True)
+	st.markdown(f"<div class='intro-text'>{config['descricao']}</div>", unsafe_allow_html=True)
+
+	try:
+		frame = carregar_dados(config["collection"])
+	except Exception as erro:
+		st.error(f"Falha ao carregar a coleção {config['collection']}: {erro}")
+		return
+
+	if frame.empty:
+		st.warning(f"A coleção {config['collection']} não possui documentos no MongoDB.")
+		return
+
+	st.markdown("<div class='compact-metrics'>", unsafe_allow_html=True)
+	col1, col2, col3 = st.columns(3)
+	with col1:
+		st.markdown(
+			f"""
+			<div class="compact-stat">
+				<div class="compact-label">Registros</div>
+				<div class="compact-value">{len(frame):,}</div>
+				<div class="compact-note">linhas disponíveis na coleção</div>
+			</div>
+			""",
+			unsafe_allow_html=True,
+		)
+	with col2:
+		st.markdown(
+			f"""
+			<div class="compact-stat">
+				<div class="compact-label">Colunas</div>
+				<div class="compact-value">{len(frame.columns)}</div>
+				<div class="compact-note">campos exibidos na tabela</div>
+			</div>
+			""",
+			unsafe_allow_html=True,
+		)
+	with col3:
+		st.markdown(
+			f"""
+			<div class="compact-stat">
+				<div class="compact-label">Coleção</div>
+				<div class="compact-value">{config['collection']}</div>
+				<div class="compact-note">origem do conteúdo</div>
+			</div>
+			""",
+			unsafe_allow_html=True,
+		)
+	st.markdown("</div>", unsafe_allow_html=True)
+
+	metricas = config.get("metricas", [])
+	if metricas:
+		st.markdown("<div class='small-section-title'>Indicadores rápidos</div>", unsafe_allow_html=True)
+		dados_metricas = frame[metricas].head(1).fillna(0)
+		exibir_metricas(dados_metricas, metricas)
+
+	st.markdown("<div class='small-section-title'>Visualização principal</div>", unsafe_allow_html=True)
+	criar_grafico_barras(frame, config["x"], config["y"], config.get("color"), config["titulo"])
+
+	with st.expander("Ver dados completos"):
+		st.dataframe(frame, use_container_width=True)
+
+
+if __name__ == "__main__":
+	main()
 
